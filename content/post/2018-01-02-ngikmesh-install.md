@@ -6,7 +6,7 @@ Les institutions en Afrique : passé, présent et avenir"
 description: "Après la publication du livre collectif Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives (Collection Sembura, La Croisée des chemins, Casablanca, 2021), préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc, cet appel à contributions vise à poursuivre, en 2022, la moisson des idées pour une renaissance panafricaine. Le thème retenu est le suivant : « Les institutions en Afrique : passé, présent et avenir »."
 date:       2022-01-02 12:00:00
 author:     "Rabia"
-image: "https://boremandjo.imgix.net/photo-1507878866276-a947ef722fee.jpg"
+image: "https://boremandjo.imgix.net/photo-1552083375-1447ce886485.jpg"
 published: true
 tags:
     - Appel 
@@ -89,7 +89,7 @@ Conseil de sécurité des Nations unies.
 Ces réflexions autour des institutions africaines anciennes, actuelles et à venir pourront englober plusieurs domaines : spirituel, familial, éducatif, sportif, monétaire, justice traditionnelle, justice restaurative, économie circulaire, défense collective, environnement, diplomatie, etc.
 
 
-Les propositions d’articles en français, d’une longueur de 15 000 signes et caractères, y compris les références bibliographiques, sont à envoyer aux adresses suivantes :
+> Les propositions d’articles en français, d’une longueur de 15 000 signes et caractères, y compris les références bibliographiques, sont à envoyer aux adresses suivantes :
 collectionsembura@gmail.com, eugeneebode@gmail.com
 
 Merci d’ajouter à votre envoi une courte biographie. 
@@ -98,7 +98,7 @@ Le public visé : grand public.
 
 La date limite de soumission des textes est fixée au 15 mai 2022.
 
-N.B. La collection « Sembura » est également ouverte aux textes de fiction, tous genres littéraires confondus, qui ont pour cadre l’Afrique et ses réalités. Les manuscrits sont à envoyer à l’adresse suivante : collectionsembura@gmail.co
+> N.B. La collection « Sembura » est également ouverte aux textes de fiction, tous genres littéraires confondus, qui ont pour cadre l’Afrique et ses réalités. Les manuscrits sont à envoyer à l’adresse suivante : collectionsembura@gmail.co
 
-> Le mot littérature。
+
 
