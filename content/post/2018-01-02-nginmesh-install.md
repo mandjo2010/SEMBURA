@@ -12,7 +12,7 @@ tags:
     - Collection
     - Sembura
 URL: "/2018/01/02/nginmesh-install/"
-categories: [ Revue de presse ]
+categories: [Revue de presse]
 ---
 
 ## Littérature

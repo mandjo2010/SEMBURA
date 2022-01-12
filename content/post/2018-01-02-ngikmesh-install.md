@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:     post 
 title:      "LES INSTITUTIONS EN AFRIQUE: PASSÉ, PRÉSENT ET AVENIR"
 subtitle:   "Appel à contributions pour un ouvrage collectif sur le thème : 
@@ -13,7 +13,7 @@ tags:
     - Contribution
     - Sembura
 URL: "/2018/01/02/bkikmesh-install/"
-categories: [ Agenda ]
+categories: [Agenda]
 ---
 
 
@@ -101,4 +101,4 @@ La date limite de soumission des textes est fixée au 15 mai 2022.
 > N.B. La collection « Sembura » est également ouverte aux textes de fiction, tous genres littéraires confondus, qui ont pour cadre l’Afrique et ses réalités. Les manuscrits sont à envoyer à l’adresse suivante : collectionsembura@gmail.co
 
 
-
+ -->
