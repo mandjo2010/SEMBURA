@@ -1,9 +1,12 @@
 ---
 layout:     post
-title:      "SILIKANI"
-subtitle:   "Collection Continents Noirs, Gallimard"
-date:       2006-09-03
-author:     "EUGÈNE ÉBODÉ"
+title:      "QU'EST-CE QUE L'AFRIQUE ?"
+subtitle:   "Réflexions sur le continent africain et perspectives"
+description: "
+D’où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
+"
+date:       2021-11-03
+author:     "le collectif sous la direction de Rabiaa MARHOUCH et Eugène ÉBODÉ"
 image: "https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
 published: true
 hide-in-home: true
@@ -17,10 +20,25 @@ categories: [ parutions ]
 URL: "/2018/05/01/may-day-jiulonghu"
 ---
 
-## SILIKANI  
+## QU'EST-CE QUE L'AFRIQUE ?  
 
-Il y a cela vingt ans, au moment de quitter ma terre natale, je fus pris d'une excitation et d'une tension où l'impatience de découvrir la France le disputait à l'angoisse de l'exil. J'avais une fiancée, pour échapper aux dilemmes amoureux et aux appréhensions qui me submergeaient alors, la musique africainefut l'un de mes exutoires les plus effcaces...
+« D’où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
 
-j'ai conservé de ces instants le souvenir de rytmmes cadencés et apaisants. Ils ont été de formidables digues érigées contre les torrents de l'amertume. on ne danse pas quand on est amer, on s'assoit, on gémit et on pleure. Quand on quitte la vallée des larmes, on se lève et on marche. Quand on veut se sentir pleinement heureux, on esquisse un pas de sanse. 
+Les vingt-et-un auteurs réunis dans cet ouvrage réfutent l’historiographie du fatalisme qui laisse accroire qu’une malédiction se serait abattue sur l’Afrique au point de la rendre politiquement ingouvernable et philosophiquement rétive à toute entreprise de remembrement. »
 
-Téléchargeable gratuitement [ici](https://collectionsembura.wordpress.com/parutions/)<BR>
+Abdeljalil LAHJOMRI, Secrétaire perpétuel de l'Académie du Royaume du Maroc
+
+Sous la direction des universitaires et écrivains Rabiaa Marhouch et Eugène Ebodé, l’ouvrage collectif, Qu’est-ce que l’Afrique ?, préfacé par Abdeljalil Lahjomri, Secrétaire Perpétuel de l’Académie du Royaume du Maroc, est édité par les éditions La Croisée des chemins à Casablanca. 
+
+Au cours de la cérémonie de présentation de l’ouvrage, le 17 novembre 2021, les participants se sont vus aussi présenter de nouveaux textes littéraires de la région des Grands Lacs (Burundi, République démocratique du Congo, Rwanda), publiés dans la collection Sembura (La Croisée des chemins, Casablanca). Le film Partir de la cinéaste camerounaise Mary-Noël Niba et qui questionne le thème de la migration et du retour aux sources, sera également projeté en avant-première.
+
+### Interview de l'écrivain Eugène Ebodé   
+
+Interview et regard sur l'ouvrage: "Qu'est ce que c'est l'Afrique?"
+
+{{< youtube 94a3seFoYbk >}}
+
+### Contribution   
+Ont participé à cet ouvrage (dans l'ordre des contributions) : Eugène Ébodé, Ali Benmakhlouf, Gaston-Paul Effa, Jean-Claude Tchatchouang, Jennifer Richard, Véronique Tadjo, Juvénal Ngorwanubusa, Martin Ziguélé, Nourredine Bousfiha, Kebir Mustapha Ammi, Mona Azzam, Antoine Barral, Jean-François Zorn, Adama Sangaré, Abdallah Baïda, Gaston Kelman, Concilie Bigirimana, Amobé Mévégué, Michel Lobé Etamé, Théo Muhasanya Bil'umbele et Bouazza Benachir.
+
+Téléchargeable gratuitement [ici](http://lacroiseedeschemins.ma/produit/quest-ce-que-lafriquereflexions-sur-le-continent-africain-et-perspectives/)<BR>

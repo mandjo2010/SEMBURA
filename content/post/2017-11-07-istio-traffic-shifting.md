@@ -22,3 +22,12 @@ Eugène Ébodé vous présente son ouvrage "Souveraine Magnifique" aux éditions
 
 
 {{< youtube vZ8b5j60UFw >}}
+
+
+
+
+
+
+{{ }}
+
+<iframe width="720" height="530" src="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc58njx8y66/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>

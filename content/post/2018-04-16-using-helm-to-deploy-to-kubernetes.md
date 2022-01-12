@@ -1,14 +1,12 @@
 ---
 layout:     post
-title:      "COLLECTION"
-subtitle:   "Les premiers témoignages fossiles de l'activité de collection"
-description: "
-Les premiers témoignages fossiles de l'activité de collection sont recueillis par André Leroi-Gourhan lors de fouilles dans la grotte du Renne à Arcy-sur-Cure : des blocs de pyrite de fer, une coquille de gastéropode et un polypier fossiles sont volontairement apportés et gardés ensemble dans cette grotte habitée par l'homme de Neandertal au Moustérien1. Dans le monde grec et romain antique, des collections artistiques existent dans les temples (objets votifs), les bibliothèques …
-"
+title:      "QU'EST CE QUE L'AFRIQUE ?"
+subtitle:   "Présentation du livre Qu'est-ce que l'Afrique?"
+description: "Ce livre de 260 pages est une contribution collective de 21 écrivains d'Afrique et du Maroc, dont des auteurs de la communauté africaine à l'étranger."
 excerpt: ""
-date:       2021-04-16 15:00:00
-author:     "Rabia"
-image: "https://boremandjo.imgix.net/photo-1535905557558-afc4877a26fc.jpg"
+date:       2021-11-17 15:00:00
+author:     "Maghreb Arabe Presse"
+image: "https://boremandjo.imgix.net/photo-1614531341773-3bff8b7cb3fc.jpg"
 published: true
 tags:
     - Collection
@@ -18,236 +16,30 @@ categories: [ Revue de presse ]
 URL: "/2018/04/16/using-helm-to-deploy-to-kubernetes/"
 ---
 
-## Qu'est ce qu'une collection ?
+## Maghreb Arabe Presse (Rabat)
 - - -
-Une collection est à la fois un regroupement d'objets correspondant à un thème, et l'activité qui consiste à réunir, entretenir et gérer ce regroupement.
+Rabat — L'Académie du Royaume du Maroc a abrité, mercredi, la cérémonie de présentation d'un livre collectif intitulé "Qu'est-ce que l'Afrique? Réflexions sur le continent africain et perspectives", édité par les Éditions "La Croisée des Chemins".
 
-## Histoire
-- - -
-Les premiers témoignages fossiles de l'activité de collection sont recueillis par André Leroi-Gourhan lors de fouilles dans la grotte du Renne à Arcy-sur-Cure : des blocs de pyrite de fer, une coquille de gastéropode et un polypier fossiles sont volontairement apportés et gardés ensemble dans cette grotte habitée par l'homme de Neandertal au Moustérien1.。
+Ce livre de 260 pages est une contribution collective de 21 écrivains d'Afrique et du Maroc, dont des auteurs de la communauté africaine à l'étranger.
 
-Dans le monde grec et romain antique, des collections artistiques existent dans les temples (objets votifs), les bibliothèques, dans les palais de princes hellénistiques ou auprès de lettrés. De nombreux épigrammes du papyrus de Milan décrivent ainsi des œuvres d'art ou des objets votifs (gemme, statue, ex-voto), affinant nos connaissances sur le regard ancien et sur la réception des images à l’époque hellénistique.
+Préfacé par le Professeur Abdeljalil Lahjomri, Secrétaire perpétuel de l'Académie du Royaume du Maroc, ce livre a été élaboré sous la direction d'Eugène Ébodé et de Rabiaa Marchouch et compte entre ses pages les contributions de Ali Benmakhlouf, Gaston-Paul Effa, Jean-Claude Tchatchouang, Jennifer Richard, Mona Azzam, Bouazza Benachir, Abdallah Baïda, Gaston-Paul Effa, Jean-François Zorn et Adama Sangaré pour ne citer que quelques contributeurs.
 
-À la Renaissance, le cabinet de curiosités se répand dans le monde aristocratique européen, avec un certain goût pour l'hétéroclisme et l'inédit. L'engouement pour la collection à cette époque est appelé par les historiens italiens le collectionnisme3.
+Selon l'éditeur, le livre tente de répondre à des questions telles que "D'où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l'Afrique ? Bousculée par l'Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l'Afrique peut-elle aspirer à autre chose qu'à l'apitoiement ?"
 
-Krzysztof Pomian, l'un des pionniers de la recherche sur l'histoire des collections, définit la collection comme « tout ensemble d’objets naturels ou artificiels, maintenus temporairement ou définitivement hors du circuit d’activités économiques, soumis à une protection spéciale dans un lieu clos aménagé à cet effet et exposé au regard ». Ces objets perdent de leur utilité ou de leur valeur d'échange pour devenir « sémiophores », porteurs de sens4.
+Ainsi, les vingt-et-un auteurs réunis dans cet ouvrage "réfutent l'historiographie du fatalisme qui laisse accroire qu'une malédiction se serait abattue sur l'Afrique au point de la rendre politiquement ingouvernable et philosophiquement rétive à toute entreprise de remembrement".
 
-![](https://img.zhaohuabing.com/in-post/2018-04-16-using-helm-to-deploy-to-kubernetes/wordpress.png)
+Dans une allocution de circonstance, M. Lahjomri, a indiqué que "cette cérémonie est l'occasion de confirmer l'étendue de l'intérêt que Sa Majesté le Roi Mohammed VI attache à l'Afrique en tant que Continent du futur", citant dans ce sens des extraits du Discours prononcé par le Souverain à l'occasion du 28ème sommet de l'Union africaine (UA), dans lequel Sa Majesté a assuré que "C'est la voie de la solidarité, de la paix et de l'union que Mon pays a choisie. Nous réaffirmons notre engagement en faveur du développement et de la prospérité du citoyen africain. Nous, peuples d'Afrique, avons les moyens et le génie; et nous pouvons ensemble, réaliser les aspirations de nos peuples".
 
+Interview d'Eugène Ebodé et de Rabiaa Marhouch, co-directeurs de l'ouvrage collectif "Qu'est-ce que l'Afrique ?", par Kahdy Sow dans l'émission "1001 Cultures", TV Laval.
 
-Collections：
-* Collections scientifiques
-* Collection d'œuvres d'art
-* Collection d'objets de la vie quotidienne
+{{< youtube sWI_cGEdnF4 >}}
 
+Le Secrétaire perpétuel de l'Académie du Royaume du Maroc a également salué la qualité des essais publiés dans cet ouvrage au regard de leur "profondeur, clairvoyance, questionnement et approche critique sobre".
 
+Dans une déclaration à la MAP, l'éditeur Abdelkader Retnani a indiqué que la présentation du livre est l'occasion de renforcer les relations avec les pays du Continent africain, notamment la région des Grands Lacs, notant que La Croisée des Chemins est déterminée à publier les œuvres des auteurs du continent africain et à les présenter au Maroc et en Europe.
 
-## Collections scientifiques
-- - -
-Les collections scientifiques peuvent être constituées de spécimens d'histoire naturelle (botanique, zoologie, minéralogie, géologie, etc.), mais des objets se référant à toute autre discipline scientifique peuvent aussi les composer, comme des artéfacts d'archéologie, des cires anatomiques utilisées en médecine, des objets liés au génie et à la technique, etc.
+Le livre fait partie de la collection "Sembura", lancée par les Éditions "La Croisée des Chemins" en janvier 2021. Cette collection s'inscrit dans la continuité des productions littéraires des universitaires de la région des Grands Lacs et d'intellectuels africains impliqués dans ce projet éducatif et créatif.
 
 
-
-## Collection d'œuvres d'art
-- - -
-Activité pratiquée d'abord par les aristocrates (exemple du mécénat), elle se développe par la suite dans la bourgeoisie (notamment dans le monde des artistes comme Étienne Moreau-Nélaton ou celui des affaires des années 1970). 
-
-Elle peut se faire par plaisir ou par spéculation, suivre le conseil des critiques ou des marchands d'art pour faire son choix. L'amateur réunissant des œuvres d'art peut participer à des ventes aux enchères ou passer des commandes auprès des artistes, léguer parfois ses acquisitions à des institutions publiques.
-
-* Collections scientifiques
-
-* Collection d'œuvres d'art
-
-* Collection d'objets de la vie quotidienne
-
-* Collections scientifiques
-
-* Collection d'œuvres d'art
-
-* Collection d'objets de la vie quotidienne
-
->  Elle peut se faire par plaisir ou par spéculation, suivre le conseil des critiques ou des marchands d'art pour faire son choix. L'amateur réunissant des œuvres d'art peut participer à des ventes aux enchères ou passer des commandes auprès des artistes, léguer parfois ses acquisitions à des institutions publiques.
- 
->  Elle peut se faire par plaisir ou par spéculation, suivre le conseil des critiques ou des marchands d'art pour faire son choix. L'amateur réunissant des œuvres d'art peut participer à des ventes aux enchères ou passer des commandes auprès des artistes, léguer parfois ses acquisitions à des institutions publiques.
-
-Elle peut se faire par plaisir ou par spéculation, suivre le conseil des critiques ou des marchands d'art pour faire son choix. L'amateur réunissant des œuvres d'art peut participer à des ventes aux enchères ou passer des commandes auprès des artistes, léguer parfois ses acquisitions à des institutions publiques.
-
-图2： Helm
-![](https://img.zhaohuabing.com/in-post/2018-04-16-using-helm-to-deploy-to-kubernetes/helm-architecture.png)
-
-## Collection d'objets de la vie quotidienne
-- - -
-La collection d'autoportraits du Corridor de Vasari, engagée par 200 tableaux par le cardinal Léopold de Médicis, la collection Verzocchi, collection originale de tableaux, autour du thème du travail, rassemblée à Forlì entre 1949 et 1950 par l'industriel italien Giuseppe Verzocchi, la collection Ares qui compte plusieurs collection d'artistes modernes et contemporain, la Collection Kesauri, appartenant à la famille Kesauri, des travaux de peintres connus qui déterminent le développement de l'art, de la Renaissance à nos jours sont des exemples de collections d'œuvres d'art.
-
-1. Arénophile : collectionneur de sables
-1. Arctophile : collectionneur d'ours en peluche
-1. Bibliophile : collectionneur de livres
-
-Appellation des collectionneurs par type de collection
-
-```bash
-Helm init
-```
-
-## Notes et références
-- - -
-
-Guy Buisson, Homo Collector, une anthropologie du collectionneur, éditions Amalthée, 2019.
-
-```
-
-
-
-```
-helm create testapi-chart
-```
-
-
-```Bash
-testapi-chart
-├── charts
-├── Chart.yaml
-├── templates
-│   ├── deployment.yaml
-│   ├── _helpers.tpl
-│   ├── NOTES.txt
-│   └── service.yaml
-└── values.yaml
-```
-
-
-
-```
-apiVersion: v1
-description: A simple api for testing and debugging
-name: testapi-chart
-version: 0.0.1
-```
-
-
-```
-replicaCount: 2
-image:
-  repository: daemonza/testapi
-  tag: latest
-  pullPolicy: IfNotPresent
-service:
-  name: testapi
-  type: ClusterIP
-  externalPort: 80
-  internalPort: 80
-resources:
-  limits:
-    cpu: 100m
-    memory: 128Mi
-  requests:
-    cpu: 100m
-    memory: 128Mi
-```
-
-
-```
-helm lint
-==> Linting .
-[INFO] Chart.yaml: icon is recommended
-
-1 chart(s) linted, no failures
-```
-
-
-
-```
-helm package testapi-chart --debug
-```
-
-
-```
-Saved /Users/daemonza/testapi/testapi-chart/testapi-chart-0.0.1.tgz to current directory
-Saved /Users/daemonza/testapi/testapi-chart/testapi-chart-0.0.1.tgz to /Users/daemonza/.helm/repository/local
-```
-
-
-
-## Bibliographie
-- - -
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-```
-helm search testapi
-No results found
-```
-
-
-
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-```Bash
-helm repo list
-NAME    URL
-stable  https://kubernetes-charts.storage.googleapis.com
-```
-
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-
-```Bash
-helm serve&
-Now serving you on 127.0.0.1:8879
-```
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-```Bash
-helm repo add local http://127.0.0.1:8879
-"local" has been added to your repositories
-```
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-
-```Bash
-helm search testapi
-
-NAME                    CHART VERSION   APP VERSION     DESCRIPTION
-local/testapi-chart     0.0.1                           A Helm chart for Kubernetes
-```
-
-## Article connexe
-- - -
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni, 2008 (ISBN 88-87207-59-3)
-```
- helm install local/testapi-chart --name testapi
-```
-Article connexe
-
-```
-NAME:   testapi
-LAST DEPLOYED: Mon Apr 16 10:21:44 2018
-NAMESPACE: default
-STATUS: DEPLOYED
-
-RESOURCES:
-==> v1/Service
-NAME                   TYPE       CLUSTER-IP    EXTERNAL-IP  PORT(S)  AGE
-testapi-testapi-chart  ClusterIP  10.43.121.84  <none>       80/TCP   0s
-
-==> v1beta1/Deployment
-NAME                   DESIRED  CURRENT  UP-TO-DATE  AVAILABLE  AGE
-testapi-testapi-chart  1        1        1           0          0s
-
-==> v1/Pod(related)
-NAME                                   READY  STATUS   RESTARTS  AGE
-testapi-testapi-chart-9897d9f8c-nn6wd  0/1    Pending  0         0s
-
-
-NOTES:
-1. Get the application URL by running these commands:
-  export POD_NAME=$(kubectl get pods --namespace default -l "app=testapi-testapi-chart" -o jsonpath="{.items[0].metadata.name}")
-  echo "Visit http://127.0.0.1:8080 to use your application"
-  kubectl port-forward $POD_NAME 8080:80
-```
-
-Enrico Castruccio, I Collezionisti usi, costumi, emozioni, Cremona, Persico Edizioni,
-```
-helm ls
-```
-
-Article connexe
-```
-NAME    REVISION        UPDATED                         STATUS          CHART                   NAMESPACE
-testapi 1               Mon Apr 16 10:21:44 2018        DEPLOYED        testapi-chart-0.0.1     default
-```
+{{< youtube OQYImEDrBmE >}}
 
