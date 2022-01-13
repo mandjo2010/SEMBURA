@@ -2,7 +2,7 @@
 layout:     post 
 title:      "The SEMBURA COLLECTION AND ITS LITERACY PUBLICATIONS "
 subtitle:   "The Sembura collection and its literary publications at the Royal Academy"
-description: "english version to be here"
+description: "English version to be here.. La littérature est un ensemble d'œuvres écrites ou orales auxquelles on reconnaît une valeur esthétique1 ; c'est un art exprimant un idéal de beauté. Grâce aux productions littéraires, elle permet de manifester des émotions et de révéler aux lecteurs ou aux auditeurs ce qu'une personne a dans le cœur. La littérature vise à éduquer, à communiquer des pensées…"
 date:       2021-11-23 12:00:00
 author:     "Rabia"
 image: "https://boremandjo.imgix.net/photo-1627423896085-e3e694d88e40.jpg"

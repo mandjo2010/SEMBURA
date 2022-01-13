@@ -2,7 +2,7 @@
 layout:     post 
 title:      "LANCEMENT DE SEMBURA"
 subtitle:   "Reportage dans Objectif Gard sur le lancement de Sembura au Maroc, par Coralie Mollaret"
-description: "Une fois n’est pas coutume, Objectif Gard a traversé la Méditerranée direction le Maroc. Votre journal a suivi deux écrivains résidant dans le Gard : Eugène Ébodé et sa femme, Rabiaa Marouche, directrice de la collection « Semboura ». Un voyage qui a permis également de découvrir la Maison de la région Occitanie à Casablanca, la seule du continent africain. "
+description: "Une fois n’est pas coutume, Objectif Gard a traversé la Méditerranée direction le Maroc. Votre journal a suivi deux écrivains résidant dans le Gard : Eugène Ébodé et sa femme, Rabiaa Marouche, directrice de la collection « Semboura ». Un voyage qui a permis également de découvrir la Maison de la région Occitanie à Casablanca, la seule du continent africain. Retour en images sur l'immersion d'Objectif Gard au Maroc "
 date:       2020-01-02 12:00:00
 author:     "Rabia"
 image: "https://boremandjo.imgix.net/photo-1473605768212-7e1f2c756179.jpg"
