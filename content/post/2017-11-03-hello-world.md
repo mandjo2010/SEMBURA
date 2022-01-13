@@ -36,7 +36,7 @@ Avec Convergences, positiver l’autre, titre que nous avons ici le privilège d
 
 Téléchargeable gratuitement [ici](https://lacroiseedeschemins.ma/produit/convergences-positiver-lautreanthologie-3plateforme-des-ecrivains-des-grands-lacs-africains/)<BR>
 
-[](/img/sembura.png)
+[](/img/sembura.jpg)
 
 
 

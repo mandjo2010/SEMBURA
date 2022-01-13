@@ -50,7 +50,7 @@ home = ["HTML", "RSS", "Algolia"]
   # Sidebar settings
   sidebar_about_description = "Créée et dirigée par Rabia Marhouch, la collection Sembura est soutenue par la Fondation Corymbo, Zürich, Suisse"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/sembura.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/sembura.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
