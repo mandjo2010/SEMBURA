@@ -1,11 +1,11 @@
 ---
 layout:     post 
-title:      "LITTERATURE"
+title:      "SEMBURA, UNE AFRIQUE QUI FAIT COULER BEAUCOUP D’ENCRE"
 subtitle:   "La littérature est un ensemble d'œuvres écrites ou orales auxquelles on reconnaît"
-description: "Étymologiquement, l'escrivein qui apparaît En définitive, quels que soient les choix esthétiques de chaque auteur de ce recueil, le démon de la haine y est toujours nommé, seul moyen de l’exorciser. Muzirankoni, l’imbattable du Rwandais Augustin Gasake se termine par cette jolie invite, sans doute rituelle : « Je remets le conte là où je l’ai détaché, qui veut le perpétuer le prend. Et s’il est un endroit du monde où cela mérite d’être inlassablement rappelé…"
-date:       2020-01-02 12:00:00
-author:     "Rabia"
-image: "https://boremandjo.imgix.net/photo-1473605768212-7e1f2c756179.jpg"
+description: "Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022."
+date:       2021-12-03 12:00:00
+author:     "TelQuel "
+image: "https://boremandjo.imgix.net/pexels-photo-415078.jpeg"
 published: true
 tags:
     - Littérature 
@@ -15,57 +15,54 @@ URL: "/2018/01/02/nginmesh-install/"
 categories: [Revue de presse]
 ---
 
-## Littérature
+Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022.
 
-La littérature est un ensemble d'œuvres écrites ou orales auxquelles on reconnaît une valeur esthétique1 ; c'est un art exprimant un idéal de beauté. Grâce aux productions littéraires, elle permet de manifester des émotions et de révéler aux lecteurs ou aux auditeurs ce qu'une personne a dans le cœur. La littérature vise à éduquer, à communiquer des pensées, à influencer et même à séduire. La littérature constitue un héritage patrimonial et peut concourir à la préservation du patrimoine d'un pays, lorsqu'elle en souligne les valeurs, la culture et la civilisation.
+
+Dans la soirée du mardi 16 novembre, Abdelkader Retnani réunissait à Casablanca une quarantaine de convives afin de célébrer le lancement de Sembura, la nouvelle collection de sa maison d’édition, La Croisée des Chemins.
+
+À l’occasion, c’est une délégation constituée d’une vingtaine d’écrivains et intellectuels, spécialement venue de la région des Grands Lacs africains qui s’est déplacée à Casablanca. L’événement phare de la soirée : la présentation du premier ouvrage phare de Sembura, Qu’est-ce que l’Afrique ?. Un livre collectif, coordonné par l’écrivain camerounais Eugène Ebodé, qui regroupe les contributions de 21 auteurs, du Maroc au Mali, de la République centrafricaine à la France, du Cameroun à la Côte d’Ivoire. À travers des réflexions personnelles, dénuées de tout jargon académique, tous tentent de répondre à une même question : qu’est-ce que cet immense continent antique qui réunit autant qu’il divise ?
+
+## Ferment littéraire
+Tout commence en 2010, lorsque se crée la plateforme “Sembura, ferment littéraire des Grands Lacs Africains” : une initiative soutenue par la fondation suisse Corymbo, qui ambitionne de mettre en place un espace de dialogue culturel et littéraire entre le Rwanda, le Burundi et le Congo — une région à la géopolitique conflictuelle, meurtrie par le génocide des Tutsis.
+
+“Grâce à la plateforme Sembura, un ensemble de productions littéraires et intellectuelles a été réalisé, sans pour autant parvenir à être édité, et donc diffusé”, retrace Rabiaa Mahrouch, coordinatrice et directrice littéraire et éditoriale de la nouvelle collection. “C’est ainsi que j’ai été contactée par Sembura pour donner un nouvel élan à ce projet”, poursuit cette doctoresse en littérature comparée et chroniqueuse au Courrier de Genève.
+
+C’est ainsi que se profile un partenariat avec La Croisée des Chemins, qui résulte de la volonté d’octroyer des moyens éditoriaux aux auteurs de la plateforme Sembura — indisponibles, au vu des conditions du marché du livre des pays concernés —, ainsi que de les faire bénéficier d’un réseau de diffusion et de visibilité.
+
+
+Eugène Ebodé a coordonné l’ouvrage collectif, dont le lancement a été accueilli par l’Académie du Royaume.Crédit: MAP
+Créée en février 2021 et officiellement lancée en novembre de la même année, la collection Sembura compte à son actif cinq publications : trois anthologies littéraires, un roman, et l’ouvrage collectif Qu’est-ce que l’Afrique ?. “Les anthologies existaient déjà”, explique Rabiaa Mahrouch au sujet de ces ouvrages qui s’articulent autour de thématiques d’émergence, de paix et de convergence : “Elles ont été produites, mais n’ont pas bénéficié d’un travail éditorial, ne pouvaient être diffusées pour des raisons politiques. Nous les avons éditées, imprimées, mais aussi numérisées et rendues disponibles en accès gratuit sur le site de La Croisée des Chemins.”
+
+Selon la directrice éditoriale de la collection, une quatrième anthologie serait déjà en cours de préparation. Et d’annoncer que la collection, qui était initialement destinée aux auteurs des Grands Lacs africains, s’ouvrira désormais à des manuscrits venus de toute l’Afrique.
+
+## L’Afrique et nous
+
+Au lendemain du lancement casablancais, direction Rabat, à l’Académie du royaume, où son secrétaire perpétuel, Abdeljalil Lahjomri, a accueilli la délégation Sembura lors d’une cérémonie officielle pour la présentation du livre collectif.
+
+“C’est un très grand honneur pour nous d’avoir pu compter sur le soutien indéfectible de l’Académie du royaume”, a assuré Rabiaa Mahrouch. Abdeljalil Lahjomri a d’ailleurs signé la préface de l’ouvrage, avec un texte intitulé “Notre Afrique”, qui s’attèle notamment à examiner l’étymologie du mot Afrique, dont l’origine serait, selon certains historiens… berbère.
+
+> “La thématique s’est imposée d’elle-même. C’était comme une manière de poser les bases de la collection. Avant de parler d’Afrique, il fallait essayer de la définir”  ***Eugène Ebodé, écrivain***
+
+À l’initiative de ce livre collectif se trouve un écrivain camerounais, également docteur en littératures françaises et comparées, auteur d’une dizaine de romans aux éditions Gallimard : Eugène Ebodé. “La thématique s’est imposée d’elle-même”, nous confie-t-il au sujet de Qu’est-ce que l’Afrique ?. “C’était comme une manière de poser les bases de la collection. Avant de parler d’Afrique, il fallait essayer de la définir”, poursuit-il.
+
+Pour ce faire, un appel à contribution a été envoyé à près d’une centaine de personnalités africaines. Finalement, 21 textes ont été retenus, figurant dans un casting prestigieux, dont on déplore le manque de femmes. Elles ne sont que trois à y figurer : Mona Azzam, Véronique Tadjo et Jennifer Richard.
+
+Un bémol dont Eugène Ebodé se désole : le paysage intellectuel africain étant encore malheureusement dominé par les hommes. “Les femmes africaines que nous avons sollicitées n’ont pas donné suite à notre appel. Elles sont rares, et donc débordées de sollicitations auxquelles elles ne peuvent pas systématiquement répondre”, justifie l’écrivain.
 
 <!--more-->
-![Nginmesh sidecar proxy](https://raw.githubusercontent.com/nginmesh/nginmesh/master/images/nginx_sidecar.png)
+![Rabiaa](https://boremandjo.imgix.net/_Y8A9291.JPG)
 
-> Le mot littérature。
+Dans la démarche qu’a souhaité employer Sembura pour la réalisation de Qu’est-ce que l’Afrique ?, il est question de références, d’illustres noms et de théories de grands penseurs africains, des plus historiques aux plus contemporains, mais pas d’un rendu académique. C’est que chaque auteur part d’une réflexion personnelle et intime sur son lien au continent africain, afin d’illustrer une idée plus globale. Interrogé à ce sujet, Eugène Ebodé explique qu’il s’agit en fait d’une consigne : “Nous ne voulions pas nous jeter dans des considérations purement universitaires. Nous leur avons demandé de parler d’eux d’abord, de parler de ce qu’ils ont reçu de l’Afrique, afin de pouvoir donner chair à ces acquis. Il ne s’agit pas de recracher des injonctions et des titres.”
 
-## Le mot littérature
+## Un duel hugolien
+Dans son texte, Eugène Ebodé fait le choix de s’attaquer à Victor Hugo, plus précisément à son célèbre Discours sur l’Afrique. “Allez, Peuples ! Emparez-vous de cette terre. Prenez-la. À qui ? À personne. (…) Dieu offre l’Afrique à l’Europe”, proclamait Victor Hugo en 1882 lors d’un banquet commémoratif de l’abolition de l’esclavage, sans que cela ne choque personne, à l’époque de l’impérialisme occidental et de la vogue des “missions civilisatrices”.
 
-Le mot littérature, issu du latin litteratura dérivé de littera (la lettre), apparaît au début du xiie siècle avec un sens technique de « chose écrite » puis évolue à la fin du Moyen Âge vers le sens de « savoir tiré des livres », avant de prendre aux xviie et xviiie siècles son sens principal actuel, à savoir l'ensemble des œuvres écrites ou orales comportant une dimension esthétique (ex. : « C'est avec les beaux sentiments que l'on fait de la mauvaise littérature », André Gide) ou l'activité participant à leur élaboration (ex. : « Se consacrer à la littérature »).
+En prenant pour prétexte cet argumentaire hugolien qu’il analyse et décortique, Eugène Ebodé dénonce et reproche l’image de l’Afrique construite par les Occidentaux, et qui a longtemps prévalu dans les imaginaires collectifs : une terre de néant obscur, dont on ne saurait qualifier ses peuples autrement que de sauvages et de barbares. Or, au-delà de Victor Hugo et de Friedrich Hegel (également cité par Ebodé), nombreuses sont les figures occidentales profondément racistes et dont les pensées font l’apologie du colonialisme.
 
-La littérature se définit en effet comme un aspect particulier de la communication verbale — orale ou écrite — qui met en jeu une exploitation des ressources de la langue pour multiplier les effets sur le destinataire, qu'il soit lecteur ou auditeur. La littérature — dont les frontières sont nécessairement floues et variables selon les appréciations personnelles — se caractérise donc, non par ses supports et ses genres, mais par sa fonction esthétique : la mise en forme du message l'emporte sur le contenu, dépassant ainsi la communication utilitaire limitée à la transmission d'informations même complexes. Aujourd'hui, la littérature est associée à la civilisation des livres par lesquels nous parlent à distance les auteurs, mais elle concerne aussi les formes diverses de l'expression orale comme le conte (en plein renouveau depuis une trentaine d'années[évasif] dans les pays occidentaux), la poésie traditionnelle des peuples sans écriture — dont nos chansons sont les lointaines cousines — ou le théâtre, destiné à être reçu à travers la voix et le corps des comédiens. La technologie numérique est cependant peut-être en train de transformer le support traditionnel de la littérature et sa nature.
+En tant qu’Africains, comment devons-nous appréhender leurs littératures, œuvres, philosophies ? “Avec ouverture”, répond tout naturellement Eugène Ebodé, avant d’étayer : “Les références sont pour la plupart convoquées dans un monde de vainqueurs, donc d’Occidentaux, qui ont gagné la capacité de dire ce que nous sommes. Nous devons être ouverts, reconnaître leurs apports, mais savoir les critiquer.”
 
-Le concept de littérature a été régulièrement remis en question par les écrivains comme par les critiques et les théoriciens : c'est particulièrement vrai depuis la fin du xixe siècle où l'on a cherché à redéfinir — comme pour l'art — les fonctions de la littérature (par exemple avec la notion d'engagement pour Sartre, Qu'est-ce que la littérature ?) et sa nature (réflexion sur l'écriture et la lecture de Roland Barthes ou études des linguistes comme Roman Jakobson) et à renouveler les critères esthétiques (du « Il faut être absolument moderne » de Rimbaud au nouveau roman en passant par le surréalisme, par exemple).
+Et de poursuivre : “C’est un exercice de lucidité, pas de ressentiment, d’exclusion ou de colère. Tout ce que nous avons reçu comme enseignement est là, mais nous pouvons commencer un processus de déconstruction. On peut être un grand homme, dont certaines assertions et proclamations ont été misérables.”
 
-Il reste que, riche de sa diversité formelle sans limites autant que de ses sujets sans cesse revivifiés qui disent l'humaine condition, la littérature est d'abord la rencontre entre celui qui, par ses mots, dit lui-même et son monde, et celui qui reçoit et partage ce dévoilement. La littérature apparaît donc comme une profération nécessaire, une mise en mots où se perçoit l'exigence profonde de l'auteur qui le conduit à dire et se dire2.
+La collection Sembura publiera, chaque année, un livre collectif à partir d’une démarche de réflexion similaire au premier, sous l’édiction d’une thématique différente. Et celle de l’année 2022 nous est révélée par Eugène Ebodé : “Les institutions en Afrique : passé, présent et avenir ?”
 
-[La Liseuse](https://fr.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard)
-
-
-```
-
-```
-
-
-```
-apt-get update && apt-get install -y apt-transport-https
-
-```
-kubeadmin kubernetes cluster
-
-[Initializer机制](https://kubernetes.io/docs/admin/extensible-admission-controllers/#initializers)Initializer目前是kubernetes的一个Alpha feature，[api server](https://kubernetes.io/docs/admin/extensible-admission-controllers/#enable-initializers-alpha-feature)
-
-```
-apiVersion: kubeadm.k8s.io/v1alpha1
-kind: MasterConfiguration
-apiServerExtraArgs:
-  admission-control: Initializers,NamespaceLifecycle,LimitRanger,ServiceAccount,PersistentVolumeLabel,DefaultStorageClass,ValidatingAdmissionWebhook,ResourceQuota,DefaultTolerationSeconds,MutatingAdmissionWebhook
-  runtime-config: admissionregistration.k8s.io/v1alpha1
-```
-
-```
-kubeadm init --config kubeadm-conf --dry-run
-```
-Finished dry-running successfully. Above are the resources that would be created.
-
-```
-kubeadm init --config kubeadm-conf
-```
-
-
-```
+Un appel à contribution devrait être lancé sous peu. En attendant, Qu’est-ce que l’Afrique ? paraîtra aux éditions Gallimard en mars 2022, sous la forme d’une réédition. Une première pour la Croisée des Chemins.
