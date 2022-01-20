@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "SEMBURA, UNE AFRIQUE QUI FAIT COULER BEAUCOUP D’ENCRE"
-subtitle:   "La littérature est un ensemble d'œuvres écrites ou orales auxquelles on reconnaît"
+subtitle:   "Lancement de sa collection africaine, Sembura"
 description: "Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022."
 date:       2021-12-03 12:00:00
 author:     "TelQuel "
