@@ -1,11 +1,18 @@
 ---
 layout:     post 
-title:      "FESTIVAL INTERNATIONAL DE CINEMA"
-subtitle:   "La grande force du Maroc est dans sa population"
-description: "À l’occasion de l’ouverture du 10e Festival International de Cinéma et de Mémoire Commune de Nador (FICMEC), Najat Vallaud-Belkacem est revenue à ses origines, à la ville où elle est née et a grandi jusqu’à ses 5 ans, avant de s’envoler vers la France."
+title:      "
+أكاديمية المملكة المغربية تعرض سمبورا احتفاء بمكانة القارة الإفريقية  "
+subtitle:   ""
+description: "
+
+عرفت أكاديمية المملكة المغربية، اليوم الأربعاء، تقديم السلسلة الأدبية الإفريقية “سمبورا”، التي تديرها الأديبة ربيعة مرشوش ورأت النور في يناير.
+وتم خلال هذا الحدث، تقديم كتاب جماعي بعنوان: “ماهي إفريقيا؟̎ .. أفكار حول القارة الإفريقية وآفاقها، ورواية للجامعي والروائى البوروندي Juvénal Ngorwanubusa بعنوان: “أنا أحتفل، إذن أنا موجود”، يناقش فيها إشكالية الأصالة والحداثة ببوروندي.
+
+"
 excerpt: "contribuer à la promotion de la littérature africaine"
 date:       2021-11-17 19:32:00
-author:     "Khadija KHETTOU"
+author:     "هسبريس
+"
 image: "https://boremandjo.imgix.net/pexels-photo-2113566.jpeg"
 published: true
 tags:
@@ -16,39 +23,25 @@ URL: "/2018/05/22/user_authentication_authorization/"
 categories: [Revue de presse]
 ---
 
-## 10e Festival International de Cinéma
+عرفت أكاديمية المملكة المغربية، اليوم الأربعاء، تقديم السلسلة الأدبية الإفريقية “سمبورا”، التي تديرها الأديبة ربيعة مرشوش ورأت النور في يناير.
+وتم خلال هذا الحدث، تقديم كتاب جماعي بعنوان: “ماهي إفريقيا؟̎ .. أفكار حول القارة الإفريقية وآفاقها، ورواية للجامعي والروائى البوروندي  بعنوان: “أنا أحتفل، إذن أنا موجود”، يناقش فيها إشكالية الأصالة والحداثة ببوروندي.
 
-À l’occasion de l’ouverture du 10e Festival International de Cinéma et de Mémoire Commune de Nador (FICMEC), Najat Vallaud-Belkacem est revenue à ses origines, à la ville où elle est née et a grandi jusqu’à ses 5 ans, avant de s’envoler vers la France. 
+وقال عبد الجليل لحجمري، أمين السر الدائم لأكاديمية المملكة المغربية، في كلمة له بالمناسبة: “إن إفريقيا، 
+“إن إفريقيا، ولكي تحافظ على تراثها الثقافي والفكري وإثرائهما، تحتاج إلى جهود جميع أبنائها لتعزيز التعاون بأبعاد متعددة وآفاق رحبة، ذلك أن إفريقيا كانت وستظل قارة اليقظة والتحدي والأمل”.
+وأضاف: “بهذا ندرك مغزى القصد من معنى أفق إفريقيا، الذي لا يعني إلا التطلع لفهم مصير مشترك يتجاوز كل الحدود الجغرافية والإيمان بالقواسم الثقافية والحضارية المشتركة”.
 
-![Najat](https://boremandjo.imgix.net/ZLMWMJ5PZ5LBLP6QB2BJW2O27Q.webp)
-
-
-Le Festival de cinéma et de mémoire commune de Nador a rendu hommage, mardi 16 novembre, à l’ancienne ministre française de l’Éducation nationale, Najat Vallaud-Belkacem, qui a reçu le Prix international « Mémoire pour la démocratie et la paix« . Un moment émouvant pour cette juriste de profession, qui n’a pas manqué de remercier les organisateurs du festival.
-
-> « J’ai l’impression de revivre toute ma vie, que c’était encore hier que j’étais dans les montagnes du Rif, une petite fille en train de courir derrière sa sœur aînée. C’est énormément d’émotion que de revenir sur ces moments qui m’ont construite. Car même si on part dans d’autres pays, on laisse un peu de notre cœur ici. Je remercie infiniment les organisateurs du festival d’avoir considéré que je pouvais être légitime à recevoir ce Prix de démocratie et de paix. Cette dernière qui ne peut être instaurée dans le monde qu’en veillant à mieux partager les richesses, car c’est l’inégalité qui crée la frustration, la rancœur et le malheur« , a déclaré Najat Vallaud-Belkacem.
-
-Lors de son séjour à Nador, l’ex-ministre française a rendu visite à plusieurs écoles dans la région qui ont été fondées par l’Association « Wahdzma »(Yes we can – oui on peut). Interpellée par Hespress Fr, celle qui fut aussi ministre des Droits des femmes et porte-parole du gouvernement dans le gouvernement de Jean-Marc Ayrault, a exprimé sa joie de revenir à sa ville natale et à ses origines, et s’est exprimée sur la situation de l’éducation nationale au Maroc.
-
-> « Je suis très contente d’être-là. Comme vous le savez je suis originaire de cette région où je suis née, où j’ai grandi jusqu’à l’âge de 5 ans avant de rejoindre la France, où j’ai travaillé et occupé des postes de responsabilités, notamment ministre de l’Éducation nationale. Et comme je suis de retour dans ma région d’origine, je voulais absolument voir des écoles. Mais je voulais aussi voir des écoles ouvertes à tout le monde, qui soient gratuites. Je sais bien que l’éducation parfois coûte cher. Et moi je suis pour la gratuité de l’éducation », a-t-elle soutenu.
-
-En visite à une école montée par l’Association « Wahdzma », et qui offre des cours de langues, Najat Vallaud-Belkacem a exprimé son soutien à cette initiative au micro de Hespress Fr, en insistant sur l’importance de l’apprentissage des langues dès le jeune âge.
-
-> « On est ici dans une école qui offre des cours de langues de français et d’anglais en particulier, gratuitement, toutes les semaines au profit des enfants. Je trouve que c’est absolument extraordinaire. J’espère qu’ils pourront se développer encore et qu’il y en  aura d’autres écoles comme cela qui se développeront », a-t-elle dit.
-
-Et d’ajouter: « Aujourd’hui, je pense qu’apprendre une langue vivante étrangère c’est vraiment indispensable pour les enfants, et que ça s’apprend dès le jeune âge. C’est quand on est petit qu’on arrive à attraper les sonorités, la langue. Ça sera très important pour leur vie professionnelle future quel que soit quelque soit le métier qu’ils exercent. Aujourd’hui on doit savoir parler, soit le français, l’anglais, l’allemand, ou peu importe. Mais il faut avoir une autre langue que sa langue natale. J’espère que tous ces enfants que j’ai rencontrés vont tenir bon, bien apprendre et réussir leur vie.
-
-## La grande force du Maroc, c’est sa population, notamment sa jeunesse
-
-Ancienne ministre de l’éducation nationale française, de 2014 à 2017, Najat Vallaud-Belkacem a occupé plusieurs postes de responsabilité dans l’Hexagone. Elle a été adjointe au Maire de Lyon (2008-2013), puis Vice-présidente du Conseil régional de Rhône-Alpes, Conseillère générale du Rhône (2008-2014), Porte-parole du gouvernement Français (2012-2014), avant d’occuper pour la première fois, le poste de Ministre des Droits des Femmes, de la ville, de la Jeunesse et des Sports (2012-2016).
-
-Née à Béni Chiker, à Nador en 1977, Najat Vallaud-Belkacem a quitté très tôt le Maroc, mais n’a pas quitté de l’œil ses origines ou encore l’évolution de son pays natal.
+وأكد لحجمري أن اللقاء الذي تم تنظيمه اليوم، “ليس فقط احتفاء بصدور كتاب وإن كان المقام يقتضي ذلك، بل إنه مناسبة لتأكيد، والأمر لم يعد يحتاج إلى ذلك، مدى الاهتمام الذي يوليه صاحب الجلالة الملك محمد السادس، أيده الله ونصره، لإفريقيا باعتبارها قارة المستقبل”.
 
 
-> « Je constate de manière générale que le Maroc est en progrès évidemment. Sur beaucoup de sujets que j’ai connus dans mon enfance, les choses vont mieux aujourd’hui qu’à l’époque, y compris par exemple, l’aménagement du territoire. Vous voyez comment la ville de Nador a changé. Il y a des investissements beaucoup plus importantes qui sont faits dans de nombreuses régions qui autrefois étaient des régions très rurales », a-t-elle indiqué.
+تابع متحدثا عن أهمية إفريقيا بأنها “تزخر بالعديد من الإمكانيات البشرية والاقتصادية والجيو- و
+سياسية، كما تشهد مسارات للتنمية تمنحها في بعض الشؤون موقع الريادة فيما اتصل بالسياسات الحكيمة للاقتصادات الصاعدة بالرغم من الصعوبات والتجاذبات المحلية والقارية”.
+وذكر لحجمري بكون إفريقيا “منطقة ذات أثر وازن في العلاقات الدولية، وفي العمل الدؤوب من أجل بلورة استراتيجيات متوازنة، تسعى لضمان إعادة التوزيع العادل للثروات، والمعارف والعلوم والتكنولوجيا والابتكار”، وقال: “بهذا الاعتبار، يمكننا فهم مستقبل إفريقيا في ظل التحولات العالمية المتجددة دوما وتأثيراتها على المجتمعات والأفكار”.
+أما عن الكتاب الذي تم تقديمه اليوم، فقال لحجمري: “إنه مرجع لا محيد عنه لكل باحث يهتم بدراسة واقع وآفاق إفريقيا وما تعرفه من تحولات باتت تسائلنا جميعا لتجاوز ما يمكن أن يحمله مستقبلها من خشية وتأزم يفرضهما عالم مركب الأبعاد يطرح أمامنا جملة من المخاوف، وفي الآن ذاته قدرا كبيرا من الآمال التي نلتقي حول بعضها اليوم لمواصلة حوار يغني مكتسباتنا الثقافية المشتركة بما هي مصدر ثراء بعيدا عن كل تنافر قيمي متصلب”.
 
-Sur la question de l’Éducation au Maroc, Najat Vallaud-Belkacem estime « qu’il y a du mieux dans ce domaine aussi. Mais, tout le monde reconnaît, encore aujourd’hui, malheureusement, que les enfants dans les zones rurales ne font pas les choses qu’ils aimeraient faire. Parfois c’est de l’enseignement privé qui coûte de l’argent que leurs familles n’ont pas », a-t-elle relevé. Ceci dit, la juriste a estimé que la « grande force du Maroc reste sa population, notamment sa jeunesse  ».
+لكتاب هو عصارة جهد فكري لـ 22 كاتبا اشتركوا في تأليفه، رجالا ونساء، ينتمون لإفريقيا أو من ا
+ الجالية الإفريقية، وعلى رأسهم  وربيعة مغوش.
+وجاء في مقدمة الكتاب التي حرّرها لحجمري: “إن تسمية إفريقيا هو بالفعل مشروع ساهم في إعداده 21 كاتبا اجتمعوا قصد تأليفه. تبدو المهمة سهلة من الوهلة الأولى، لكن هيهات فكل مدعو للحديث عن إفريقيا يشعر بشُحٍ في الكلام عنها بل وحتى في الهواء والتنفس. يسعدني جدا أن يكون لهذا الكتاب إسهامات أخرى، فهو يحتوي في طياته على موضوع لا ينضب”.
 
-> « Il ne faut pas douter de ça. Il y a plusieurs pays au Nord qui rêveraient d’avoir une population jeune. Des pays qui, eux, sont en train de vieillir et qui vont manquer de main-d’œuvre. Et qui vont donc manquer aussi de têtes, d’intelligence, d’innovation de créativité. Et donc, quand on est dans un pays comme celui-là (Maroc), avec cette jeunesse-là, il faut investir en elle. Et je crois que c’est la volonté royale, chose qui est très bien », a-t-elle déclaré.
 
-Pour conclure, Najat Vallaud-Belkacem a indiqué être « très favorable à l’initiative nationale de développement humain (INDH) », estimant que «tout ça va dans le bon sens, en faisant toujours plus, pour faire en sorte que nos enfants fassent de longues études, de la recherche, innovent, montent des entreprises et trouvent un l’emploi ».
+{{< youtube E02PWErZd5E >}}
 

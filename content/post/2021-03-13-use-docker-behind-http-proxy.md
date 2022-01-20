@@ -11,7 +11,7 @@ tags:
     - Afrique
     - Lacs
 URL: "/2018/03/13/use-docker-behind-http-proxy/"
-categories: [Forums]
+categories: [Forum]
 ---
 
 ## Simone Veil 

@@ -2700,12 +2700,12 @@ li.pingback:first-child {
     width: 70%;
   }
 }
-#bbpress-forums div.bbp-search-form {
+#bbpress-Forum div.bbp-search-form {
   margin: 1px 0 12px 0;
 }
 
 @media all and (min-width: 43.75em) {
-  #bbpress-forums #bbp-search-form #bbp_search {
+  #bbpress-Forum #bbp-search-form #bbp_search {
     width: 500px !important;
   }
 }

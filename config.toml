@@ -26,11 +26,11 @@ home = ["HTML", "RSS", "Algolia"]
   
   
 [params]
-  header_image = "https://boremandjo.imgix.net/photo-1544198365-f5d60b6d8190.jpg"
+  header_image = "https://boremandjo.imgix.net/pexels-photo-1029141.jpeg"
   SEOTitle = "Sembura | Sembura Blog"
   description = "Promouvoir la littérature et l’enseignement littéraire。"
   keyword = "Afrique, Sembura, Rabia, Lac, Collection,  Blog, Étudiant, Web, Grands Lacs africains, Redaction, Écrivain, Auteur, Littérature, Service"
-  slogan = "PROMOTION DE LA LITTERATURE ET DE L’ENSEIGNEMENT LITTERAIRE"
+  slogan = "PUBLICATION ET PROMOTION DE LA LITTERATURE AFRICAINE"
   image_404 = "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
   title_404 = " :("
   omit_categories = false

@@ -7,7 +7,7 @@ description: "
 excerpt: "Créée et dirigée par Rabiaa Marhouch, la collection «Sembura» est soutenue par la Fondation Corymbo, Zürich, Suisse."
 date:    2021-11-09T12:00:00
 author:     "Juvénal NGORWANUBUSA"
-image: "https://boremandjo.imgix.net/pexels-photo-1761279.jpeg"
+image: "https://boremandjo.imgix.net/pexels-photo-4518778.jpeg"
 tags:
   
     - Romans
@@ -25,7 +25,7 @@ Mais après mille péripéties, Birori finit par contracter un mariage dispendie
 Déçu par la ville, le délaissé regagne la campagne pour tenter de s’y reconstruire. La fête des retrouvailles remplira-t-elle toutes ses promesses ? Birori le découvrira à ses dépens. Entre rires et larmes, Juvénal Ngorwanubusa dépeint dans une langue subtile une Afrique rurale et une autre urbaine, deux faces faussement irréconciliables
 
 
-Téléchargeable gratuitement [ici](https://lacroiseedeschemins.ma/produit/je-fete-donc-je-suis/ )<BR>
+ [Voir](https://lacroiseedeschemins.ma/produit/je-fete-donc-je-suis/ )<BR>
 
 
 

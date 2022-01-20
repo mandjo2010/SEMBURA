@@ -1,17 +1,21 @@
 ---
 layout:     post 
 title:      "LES INSTITUTIONS EN AFRIQUE: PASSÉ, PRÉSENT ET AVENIR"
-subtitle:   "Appel à contributions pour un ouvrage collectif sur le thème : 
-Les institutions en Afrique : passé, présent et avenir"
+subtitle:   "Appel à contributions pour un ouvrage collectif "
 description: "Après la publication du livre collectif Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives (Collection Sembura, La Croisée des chemins, Casablanca, 2021), préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc, cet appel à contributions vise à poursuivre, en 2022, la moisson des idées pour une renaissance panafricaine."
 date:       2022-01-02 12:00:00
-author:     "Rabia"
+author:     "Rabiaa MARHOUCH et Eugène EBODÉ"
 image: "https://boremandjo.imgix.net/photo-1552083375-1447ce886485.jpg"
 published: true
 tags:
     - Appel 
     - Contribution
     - Sembura
+    - Institions
+    - Afrique
+    - Histoire Africaine
+    - Colonisation
+    - France
 URL: "/2018/01/02/bkikmesh-install/"
 categories: [ Agenda ]
 ---

@@ -12,7 +12,7 @@ tags:
     - Environnement 
     - Sociologie 
     - Afrique
-categories: [Forums]
+categories: [Forum]
 URL: "/2017/11/07/istio-traffic-shifting/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "QU'EST CE QUE L'AFRIQUE"
-subtitle:   "Réflexions sur le continent africain et perspectives"
+title:      "ACADEMIE DU ROYAUME DU MAROC"
+subtitle:   "Présentation des premières parutions littéraires de la «Collection Sembura»"
 description: "La première livraison littéraire de la «Collection Sembura» a été officiellement présentée au siège de l’Académie du Royaume du Maroc à Rabat, lors d’une rencontre solennelle à laquelle ont pris part les artisans de ce projet éditorial novateur.«Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» et «Je fête donc je suis» sont les prémices littéraires de …"
 showonlyimage: false
 excerpt: "L’Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées."
 date:       2021-11-19 17:47:00
-author:     "Hicham Oukerzaz"
+author:     "Le Matin du Sahara et du Maghreb"
 image: "https://boremandjo.imgix.net/MAROC.PNG"
 published: true 
 tags:
@@ -17,10 +17,8 @@ URL: "/2018/05/23/service_2_service_auth/"
 categories: [ Revue de presse ]    
 ---
 
-
-## Académie du Royaume du Maroc : présentation des premières parutions littéraires de la «Collection Sembura»
-
 «Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» et «Je fête donc je suis» sont les prémices littéraires de la «Collection Sembura», qui a vu le jour en janvier 2021. Fruit d’une collaboration entre la plateforme «Sembura, ferment littéraire» des Grands Lacs africains et la maison d’édition «La Croisée des Chemins», et bénéficiant du soutien de l’Académie du Royaume du Maroc et de la Fondation Corymbo, ce projet a vocation à promouvoir la littérature africaine. Il se consacre à la littérature générale, tous genres confondus, et accorde une importance particulière à l’accès aux anthologies dédiées à la création littéraire, notamment celle des jeunes auteurs de la région des Grands Lacs.
+
 «Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» est un ouvrage collectif préfacé par le secrétaire perpétuel de l’Académie du Royaume du Maroc, Abdeljalil Lahjomri. Dirigé par la directrice de la «Collection Sembura», écrivaine et chroniqueuse littéraire, Rabiaa Marhouch, et l’écrivain et critique littéraire Eugène Ébodé, cet ouvrage réunit les contributions de 21 écrivains et intellectuels africains, issus de la diaspora africaine, et européens.
 
 «L’Afrique à plusieurs voix» d’Ali Benmakhlouf, «L’Afrique, un visage à reconfigurer» de Gaston-Paul Effa, «L’Afrique expliquée à mes enfants» de Jean-Claude Tchatchouang, «Ce que je dois à l’Afrique» d’Antoine Barral, «L’essence d’une vie africaine» d’Adama Sangaré, «L’hymne des origines» de Abdellah Baïda ou encore «Mon Afrique n’existe pas encore» de Gaston Kelman, sont toutes des contributions qui tentent de fournir un élément de réponse à la question «Qu’est-ce que l’Afrique ?»
