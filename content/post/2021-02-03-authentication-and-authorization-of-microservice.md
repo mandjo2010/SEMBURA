@@ -6,13 +6,13 @@ description: "La collection Sembura créée en janvier 2021 et dirigée par doct
 excerpt: "contribuer à la promotion de la littérature africaine"
 date:       2021-11-23 19:32:00
 author:     "Maroc diplomatique"
-image: "https://boremandjo.imgix.net/photo-1507878866276-a947ef722fee.jpg"
+image: "https://boremandjo.imgix.net/pexels-photo-2387873.jpeg"
 published: true
 tags:
     - Littérature
     - Sembura
     - Maroc
-URL: "/2018/05/22/user_authentication_authorization/"
+URL: "/2020/05/22/user_authentication_authorization/"
 categories: [ Revue de presse ]
 ---
 
@@ -30,9 +30,9 @@ L’Académie du Royaume du Maroc accueille, le mercredi 17 novembre 2021, dans 
 
  Cet événement, organisé en collaboration avec la maison d’édition « Les croisées des chemins », sera l’occasion de présenter deux ouvrages publiés en ce mois de novembre 2021 :
 
-1- Un livre collectif intitulé Qu’est-ce que l’Afrique ? Réflexions et perspectives sur le continent africain, au sujet duquel le professeur Abdeljalil Lahjomri écrit dans sa préface : « Nommer l’Afrique est en effet le projet auquel ont contribué les vingt-et-un auteurs réunis dans ce livre. Cette tâche intellectuelle paraît simple, mais quiconque est appelé à parler de l’Afrique a tout à coup l’impression de manquer de mots, d’air, de souffle. Il me plairait beaucoup que ce livre suscite d’autres contributions, car il contient un sujet à l’inestimable fécondité. »
+- Un livre collectif intitulé Qu’est-ce que l’Afrique ? Réflexions et perspectives sur le continent africain, au sujet duquel le professeur Abdeljalil Lahjomri écrit dans sa préface : « Nommer l’Afrique est en effet le projet auquel ont contribué les vingt-et-un auteurs réunis dans ce livre. Cette tâche intellectuelle paraît simple, mais quiconque est appelé à parler de l’Afrique a tout à coup l’impression de manquer de mots, d’air, de souffle. Il me plairait beaucoup que ce livre suscite d’autres contributions, car il contient un sujet à l’inestimable fécondité. »
 
-2- Un romande l’universitaire et écrivain burundais Juvénal Ngorwanubusa, intitulé Je fête donc je suis, où l’auteur présente une société hésitant entre tradition et modernité.
+- Un romande l’universitaire et écrivain burundais Juvénal Ngorwanubusa, intitulé Je fête donc je suis, où l’auteur présente une société hésitant entre tradition et modernité.
 
 Les 22 intellectuels qui ont participé à cet ouvrage sont des hommes et des femmes vivant en Afrique ou issus de la diaspora africaine. On y trouve également des auteurs européens, comme Eugène Ebodé, qui a dirigé cet ouvrage avec Rabiaa Marouch.
 

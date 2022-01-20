@@ -17,9 +17,9 @@ categories: [ Agenda ]
 ---
 
 
-**_Rabiaa Marhouch,_** écrivain, éditrice, docteure en littérature française et comparée, chercheuse associée au laboratoire Rirra 21, université de Montpellier 3.
+>> **_Rabiaa Marhouch,_** écrivain, éditrice, docteure en littérature française et comparée, chercheuse associée au laboratoire Rirra 21, université de Montpellier 3.
 
-**_Eugène Ébodé,_** écrivain, docteur en littérature française et comparée, chercheur associé au Laboratoire Rirra 21, université de Montpellier 3.
+>> **_Eugène Ébodé,_** écrivain, docteur en littérature française et comparée, chercheur associé au Laboratoire Rirra 21, université de Montpellier 3.
 
 ## Appel à contributions pour un ouvrage collectif sur le thème : Les institutions en Afrique : passé, présent et avenir
 
@@ -49,42 +49,31 @@ rumination de l’instabilité institutionnelle en Afrique ? Comment dépasser l
 Le grand écrivain Kateb Yacine, en disant : « L’Algérie est un pays qui n’a pas fini de venir au 
 monde », mentionnait, dans une formule volontiers abrupte, une situation applicable à la plupart des États africains issus de la décolonisation. Par extension, nous pourrions dire tant une conscience continentale tarde à naître : L’Afrique unie n’a pas fini de venir au monde.
 
-## Les suggestions suivantes peuvent servir d’axes de réflexion : 
+> #### Les suggestions suivantes peuvent servir d’axes de réflexion : 
 
-1- Les structures fondamentales que l’Afrique a connues avant la colonisation, celles dont elle a hérité après la chute de ses royaumes, de ses empires et les bouleversements des cadres 
-institutionnels à l’issue du congrès de Berlin d’une part, et après les indépendances du 
-XXe siècle, d’autre part.
+-  Les structures fondamentales que l’Afrique a connues avant la colonisation, celles dont elle a hérité après la chute de ses royaumes, de ses empires et les bouleversements des cadres institutionnels à l’issue du congrès de Berlin d’une part, et après les indépendances du XXe siècle, d’autre part.
 
-2- Les institutions et structures africaines témoins du génie des Anciennes et des Anciens, des 
-apports extérieurs et de l’installation de populations issues de l’expansion arabo-musulmane. Parmi ces institutions, dont certaines ont disparu tandis que d’autres ont perduré par-delà les 
-vicissitudes du temps et les saccages de la colonisation, on peut citer : les instances 
-juridictionnelles ou de socialisation, les conseils des sages, les zawiyas, les organes délibérants ou de représentation, les cercles éducatifs, les autorités de proximité, les foyers de transmission de l’histoire par l’oralité, etc.
 
-3- Les institutions supranationales comme l’Union africaine et ses organisations transnationales 
-ou régionales. Comment doter l’Union africaine d’une dimension multilatérale afin d’assurer 
-une meilleure concorde des nations africaines ? Sur ce point, les analyses pourront examiner la 
-macrostructure, en clair l’État national et les transferts de compétences vers l’UA, reformatée 
+-  Les institutions et structures africaines témoins du génie des Anciennes et des Anciens, des apports extérieurs et de l’installation de populations issues de l’expansion arabo-musulmane. Parmi ces institutions, dont certaines ont disparu tandis que d’autres ont perduré par-delà les vicissitudes du temps et les saccages de la colonisation, on peut citer : les instances juridictionnelles ou de socialisation, les conseils des sages, les zawiyas, les organes délibérants ou de représentation, les cercles éducatifs, les autorités de proximité, les foyers de transmission de l’histoire par l’oralité, etc.
+
+
+-  Les institutions supranationales comme l’Union africaine et ses organisations transnationales ou régionales. Comment doter l’Union africaine d’une dimension multilatérale afin d’assurer une meilleure concorde des nations africaines ? Sur ce point, les analyses pourront examiner la macrostructure, en clair l’État national et les transferts de compétences vers l’UA, reformatée 
 et retaillée pour une nouvelle dynamique panafricaine.
 
-4- Les institutions féminines d’avant la colonisation et celles d’après les indépendances comme 
-l’Organisation panafricaine des femmes africaines créée par Awa Kéita.
 
-5- Et comment ne pas réfléchir aussi à un système interafricain chargé de la « remigration », afin que le continent redonne une seconde chance à ceux des siens qui ont été tentés par une 
-émigration périlleuse ? Elle transforme depuis trop longtemps déjà la Méditerranée en un 
-cimetière marin de jeunes gens abusés par les scintillements de l’Occident.
+-  Les institutions féminines d’avant la colonisation et celles d’après les indépendances comme l’Organisation panafricaine des femmes africaines créée par Awa Kéita.
 
-6- Les institutions à venir sur : 
-  – la défense et les sécurités collectives,
-  – l’éducation et la santé,
-  – le patrimoine culturel et les lieux de mémoire vus comme un patrimoine de l’humanité,
-  – la propriété intellectuelle et les droits d’auteurs,
-  – les richesses du sous-sol et le patrimoine matériel ou immatériel à protéger,
-  – le droit des fleuves, des forêts, des déserts vus comme de nouveaux sujets de droit dont la 
-personnalité juridique doit être mieux promue et défendue pour la préservation de la diversité 
-du vivant,
-  – la revendication d’une refonte du conseil de sécurité de l’ONU afin de donner une place à 
-l’Afrique, continent d’un milliard deux cent mille habitants et qui devrait avoir un siège au 
-Conseil de sécurité des Nations unies.
+
+-  Et comment ne pas réfléchir aussi à un système interafricain chargé de la « remigration », afin que le continent redonne une seconde chance à ceux des siens qui ont été tentés par une émigration périlleuse ? Elle transforme depuis trop longtemps déjà la Méditerranée en un cimetière marin de jeunes gens abusés par les scintillements de l’Occident.
+
+-  Les institutions à venir sur : 
+      -  la défense et les sécurités collectives,
+      -  l’éducation et la santé,
+      -  le patrimoine culturel et les lieux de mémoire vus comme un patrimoine de l’humanité,
+      - la propriété intellectuelle et les droits d’auteurs,
+      - les richesses du sous-sol et le patrimoine matériel ou immatériel à protéger,
+      - le droit des fleuves, des forêts, des déserts vus comme de nouveaux sujets de droit dont la personnalité juridique doit être mieux promue et défendue pour la préservation de la diversité du vivant,
+      - la revendication d’une refonte du conseil de sécurité de l’ONU afin de donner une place à l’Afrique, continent d’un milliard deux cent mille habitants et qui devrait avoir un siège au Conseil de sécurité des Nations unies.
 
 Ces réflexions autour des institutions africaines anciennes, actuelles et à venir pourront englober plusieurs domaines : spirituel, familial, éducatif, sportif, monétaire, justice traditionnelle, justice restaurative, économie circulaire, défense collective, environnement, diplomatie, etc.
 

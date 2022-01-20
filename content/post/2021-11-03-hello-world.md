@@ -4,7 +4,7 @@ title:      "ANTHOLOGIE 3 : CONVERGENCES "
 subtitle:   "Positiver l'autre"
 description: "Avec Convergences, positiver l’autre, titre que nous avons ici le privilège de présenter au lecteur, l’heure n’est plus au constat ni à la simple plaidoirie, mais au mouvement à faire vers l’Autre, avec empathie, ce dernier mot étant entendu dans le sens d’un effort de compréhension intellectuelle de l’Autre et d’une capacité à se mettre à sa place pour apprendre non seulement à respecter, mais à valoriser positivement son système de référence. "
 excerpt: " "
-date:       2021-09-11 09:32:00
+date:      2021-11-08T11:00:27+02:00
 author:     "le collectif"
 image: "https://boremandjo.imgix.net/photo-1484318571209-661cf29a69c3.jpg"
 published: true
@@ -36,8 +36,11 @@ Avec Convergences, positiver l’autre, titre que nous avons ici le privilège d
 
 Téléchargeable gratuitement [ici](https://lacroiseedeschemins.ma/produit/convergences-positiver-lautreanthologie-3plateforme-des-ecrivains-des-grands-lacs-africains/)<BR>
 
-[](/img/sembura.jpg)
+![Convergences](https://boremandjo.imgix.net/9789920753265_Convergences-Positiver-l%E2%80%99autre.jpg)
 
+
+
+[](/img/sembura.jpg)
 
 
 

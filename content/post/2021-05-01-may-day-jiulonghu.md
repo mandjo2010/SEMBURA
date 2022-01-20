@@ -5,9 +5,9 @@ subtitle:   "Réflexions sur le continent africain et perspectives"
 description: "
 D’où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
 "
-date:       2021-11-03
+date:       2021-11-10T11:00:27+02:00
 author:     "le collectif sous la direction de Rabiaa MARHOUCH et Eugène ÉBODÉ"
-image: "https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+image: "https://boremandjo.imgix.net/photo-1614531341773-3bff8b7cb3fc.jpg"
 published: true
 hide-in-home: true
 tags:
@@ -22,11 +22,14 @@ URL: "/2018/05/01/may-day-jiulonghu"
 
 ## QU'EST-CE QUE L'AFRIQUE ?  
 
-« D’où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
+> **D’où vient le mot Afrique ?** Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
 
-Les vingt-et-un auteurs réunis dans cet ouvrage réfutent l’historiographie du fatalisme qui laisse accroire qu’une malédiction se serait abattue sur l’Afrique au point de la rendre politiquement ingouvernable et philosophiquement rétive à toute entreprise de remembrement. »
+> Les vingt-et-un auteurs réunis dans cet ouvrage réfutent l’historiographie du fatalisme qui laisse accroire qu’une malédiction se serait abattue sur l’Afrique au point de la rendre politiquement ingouvernable et philosophiquement rétive à toute entreprise de remembrement».
 
-Abdeljalil LAHJOMRI, Secrétaire perpétuel de l'Académie du Royaume du Maroc
+ ***Abdeljalil LAHJOMRI***, Secrétaire perpétuel de l'Académie du Royaume du Maroc
+
+
+
 
 Sous la direction des universitaires et écrivains Rabiaa Marhouch et Eugène Ebodé, l’ouvrage collectif, Qu’est-ce que l’Afrique ?, préfacé par Abdeljalil Lahjomri, Secrétaire Perpétuel de l’Académie du Royaume du Maroc, est édité par les éditions La Croisée des chemins à Casablanca. 
 
@@ -39,6 +42,29 @@ Interview et regard sur l'ouvrage: "Qu'est ce que c'est l'Afrique?"
 {{< youtube 94a3seFoYbk >}}
 
 ### Contribution   
-Ont participé à cet ouvrage (dans l'ordre des contributions) : Eugène Ébodé, Ali Benmakhlouf, Gaston-Paul Effa, Jean-Claude Tchatchouang, Jennifer Richard, Véronique Tadjo, Juvénal Ngorwanubusa, Martin Ziguélé, Nourredine Bousfiha, Kebir Mustapha Ammi, Mona Azzam, Antoine Barral, Jean-François Zorn, Adama Sangaré, Abdallah Baïda, Gaston Kelman, Concilie Bigirimana, Amobé Mévégué, Michel Lobé Etamé, Théo Muhasanya Bil'umbele et Bouazza Benachir.
+Ont participé à cet ouvrage (dans l'ordre des contributions) :
+- Eugène Ébodé 
+- Ali Benmakhlouf 
+- Gaston-Paul Effa 
+- Jean-Claude Tchatchouang
+- Jennifer Richard
+- Véronique Tadjo
+- Juvénal Ngorwanubusa
+- Martin Ziguélé
+- Nourredine Bousfiha
+- Kebir Mustapha Ammi
+- Mona Azzam
+- Antoine Barral
+- Jean-François Zorn
+- Adama Sangaré
+- Abdallah Baïda
+- Gaston Kelman
+- Concilie Bigirimana
+- Amobé Mévégué
+- Michel Lobé Etamé
+- Théo Muhasanya Bil'umbele
+- Bouazza Benachir
 
 Téléchargeable gratuitement [ici](http://lacroiseedeschemins.ma/produit/quest-ce-que-lafriquereflexions-sur-le-continent-africain-et-perspectives/)<BR>
+![Qu'est ce que l'Afrique](https://boremandjo.imgix.net/258027082_5178998302116134_1337263760040848276_n.jpg)
+

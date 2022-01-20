@@ -13,8 +13,8 @@ tags:
     - Afrique
     
     - Maroc
-URL: "/2018/05/22/user_authentication_authorization/"
-categories: [ Revue de presse ]
+URL: "/2021/05/22/user_authentication_authorization/"
+categories: [Revue de presse]
 ---
 
 ## Chemins
@@ -43,7 +43,7 @@ Dans une autre salle, des imprimantes high-tech numérisent des documents fragil
 
 La prestigieuse institution a ouvert exceptionnellement ses portes, lors d’une cérémonie solennelle et en présence de son Secrétaire perpétuel, le professeur Abdeljalil Lahjomri.
 
-L’Académie est un bijou architectural. Ici tout est luxe, calme et ordre pour paraphraser Baudelaire. « Le roi, que Dieu le garde, dispose d’un bureau ici », explique notre guide pour souligner encore la solennité des lieux. Autour du « Secrétaire perpétuel », 30 personnalités scientifiques de nationalité marocaine, associées à 30 autres personnalités scientifiques étrangères, composent l’Académie. Quelques noms célèbres : Senghor, Alex Haley, le Cardinal Gantin, Henry Kissinger, etc. Des dizaines de noms prestigieux. Le rôle assigné à l’Académie est clair : contribuer au progrès intellectuel, scientifique et culturel du Royaume.
+L’Académie est un bijou architectural. Ici tout est luxe, calme et ordre pour paraphraser Baudelaire. « Le roi, que Dieu le garde, dispose d’un bureau ici », explique notre guide pour souligner encore la solennité des lieux. Autour du « ***Secrétaire perpétuel*** », 30 personnalités scientifiques de nationalité marocaine, associées à 30 autres personnalités scientifiques étrangères, composent l’Académie. Quelques noms célèbres : Senghor, Alex Haley, le Cardinal Gantin, Henry Kissinger, etc. Des dizaines de noms prestigieux. Le rôle assigné à l’Académie est clair : contribuer au progrès intellectuel, scientifique et culturel du Royaume.
 
 La visite de l’Académie est suivie d’un déjeuner qui présente les richesses culinaires du royaume. Les Marocains sont au petit soin pour les invités . Des dizaines de plats, exquis. Le Professeur Juvenal Ngowenubusa, auteur et critique littéraire analyse et comprend cette opération de charme : « C’est clair, le Royaume du Maroc veut devenir une plaque tournante de l’activité culturelle, un trait d’union entre le monde arabe et l’Afrique noire, c’est très bien que tout ceci se passe dans le cadre de l’unité de l’Afrique. »
 
@@ -61,3 +61,5 @@ C’est donc une nouvelle vie qui commence pour « Sembura » dont la collec
 Les auteurs venus du Rwanda, Burundi et RDC, invités d’honneur de l’Académie royale du Maroc, observent avec espoir grandir cette graine née dans leur région.
 
 C’est peut-être l’auteure burundaise Concilie Bigirimana qui traduit bien cette volonté de grandir dans l’ouvrage collectif. « Encore un pas ! Encore une empreinte ! Pourquoi pas un coup d’aile ? Peut-être plusieurs… » Et des Grands Lacs au Royaume du Maroc, elle a volé la graine Sembura. Parole de journaliste !
+
+![RABIAA](https://boremandjo.imgix.net/PHOTO-2021-11-22-12-34-32_3.jpg)
