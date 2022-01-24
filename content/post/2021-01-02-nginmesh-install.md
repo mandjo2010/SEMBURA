@@ -15,7 +15,9 @@ URL: "/2018/01/02/nginmesh-install/"
 categories: [Revue de presse]
 ---
 
-Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022.
+
+
+ Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022.
 
 
 Dans la soirée du mardi 16 novembre, Abdelkader Retnani réunissait à Casablanca une quarantaine de convives afin de célébrer le lancement de Sembura, la nouvelle collection de sa maison d’édition, La Croisée des Chemins.

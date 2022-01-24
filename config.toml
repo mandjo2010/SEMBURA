@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "https://boremandjo.imgix.net/pexels-photo-1029141.jpeg"
   SEOTitle = "Sembura | Sembura Blog"
   description = "Promouvoir la littérature et l’enseignement littéraire。"
-  keyword = "Afrique, Sembura, Rabia, Lac, Collection,  Blog, Étudiant, Web, Grands Lacs africains, Redaction, Écrivain, Auteur, Littérature, Service"
+  keyword = "Afrique, Sembura, Rabiaa, Lac, Collection,  Blog, Étudiant, Web, Grands Lacs africains, Redaction, Écrivain, Auteur, Littérature, Service"
   slogan = "PUBLICATION ET PROMOTION DE LA LITTERATURE AFRICAINE"
   image_404 = "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
   title_404 = " :("
@@ -48,7 +48,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 
   # Sidebar settings
-  sidebar_about_description = "Créée et dirigée par Rabia Marhouch, la collection Sembura est soutenue par la Fondation Corymbo, Zürich, Suisse"
+  sidebar_about_description = "Créée et dirigée par Rabiaa Marhouch, la collection Sembura est soutenue par la Fondation Corymbo, Zürich, Suisse"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/sembura.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -86,7 +86,7 @@ home = ["HTML", "RSS", "Algolia"]
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   instagram     = "https://www.instagram.com/sembura_collection/"
-  email          = "rabia@gmail.com"
+  email          = "Rabiaa@gmail.com"
   #github         = ""
   #wechat         = "your wechat qr code image"
   #medium         = "full profile url in medium"
@@ -103,7 +103,7 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "https://corymbo.ch/"
 
   [[params.friend_link]]
-  title = "Eugène Ébodé"
+  title = ""
   href =  "https://lacroiseedeschemins.ma/produit/pour-une-culture-de-paix-dans-la-region-des-grands-lacs-africainsanthologie-2plateforme-des-ecrivains-des-grands-lacs-africains/"
 
   [[params.bookmark_link]]

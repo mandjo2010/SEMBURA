@@ -1,9 +1,20 @@
 ---
 layout:     post
-title:      "CLEAN WHITE THEME FOR MANDJO"
-subtitle:   "How to set up this theme"
-date:       2019-09-01T12:00:00
-author:     "Rabia"
-image:      "https://boremandjo.imgix.net/photo-1535905557558-afc4877a26fc.jpg"
+title:      "CONCILIE BIGIRIMANA"
+subtitle:   "Écrivain"
+description: "Concilie Bigirimana est née le 23 mai 1972 dans la commune de Mugamba au Burundi. Enseignante au département de langue et littérature françaises dont elle est actuellement responsable, elle a participé également aux activités de plateforme « Sembura, Ferment littéraire » et fait partie des membres fondateurs du Patrimoine littéraire d’Afrique centrale au Burundi. "
+date:         2022-22-01 04:00:00
+author:     "Rabiaa"
+image: "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
+published: true 
+tags:
+    - Environnement 
+    - Sociologie 
+    - Afrique
+categories: [ Auteurs ]
+URL: "/2021/02/02/istio-traffic-shifting/"
 ---
+Concilie Bigirimana est née le 23 mai 1972 dans la commune de Mugamba au Burundi. Enseignante au département de langue et littérature françaises dont elle est actuellement responsable, elle a participé également aux activités de plateforme « Sembura, Ferment littéraire » et fait partie des membres fondateurs du Patrimoine littéraire d’Afrique centrale au Burundi. 
+
+Concilie Bigirimana a publié Élixir dans l’Anthologie 2 et une contribution intitulée « Encore un pas… » dans le collectif Qu’est-ce que l’Afrique ? Réflexion sur le continent africain et perspectives (Sembura, 2021). 
 

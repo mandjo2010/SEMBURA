@@ -1,33 +1,24 @@
 ---
 layout:     post
-title:      "THEME: LES JEUNES PLUMES AFRICAINS"
-subtitle:   "Accompagnement des jeunes plumes"
-description: "Étymologiquement, l'escrivein qui apparaît En définitive, quels que soient les choix esthétiques de chaque auteur de ce recueil, le démon de la haine y est toujours nommé, seul moyen de l’exorciser. Muzirankoni, l’imbattable du Rwandais Augustin Gasake se termine par cette jolie invite, sans doute rituelle : « Je remets le conte là où je l’ai détaché, qui veut le perpétuer le prend. Et s’il est un endroit du monde où cela mérite d’être inlassablement rappelé…："
+title:      "JUVENAL NGORWANUBUSA"
+subtitle:   "Écrivain"
+description: "Juvénal Ngorwanubusa est né en 1953 à Kiganda, province de Muramvya, au Burundi. Titulaire d’un doctorat en Philosophie et Lettres, obtenu à l’université Catholique de Louvain, il est actuellement professeur des littératures française, francophones et comparées à l’université du Burundi."
 excerpt: "mérite d’être inlassablement rappelé…"
-date:       2020-02-03 12:00:00
-author:     "Rabia"
-image: "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
+date:         2022-22-01 01:00:00
+author:     "Rabiaa"
+image: "https://boremandjo.imgix.net/istockphoto-858340948-612x612.jpg"
 published: true 
 tags:
     - Environnement 
     - Sociologie 
     - Afrique
-categories: [Forum]
-URL: "/2017/11/07/istio-traffic-shifting/"
+categories: [ Auteurs ]
+URL: "/2022/01/07/istio-traffic-shifting/"
 ---
+Juvénal Ngorwanubusa est né en 1953 à Kiganda, province de Muramvya, au Burundi. Titulaire d’un doctorat en Philosophie et Lettres, obtenu à l’université Catholique de Louvain, il est actuellement professeur des littératures française, francophones et comparées à l’université du Burundi. Cet homme de lettres a occupé les fonctions de doyen de la faculté des Lettres et Sciences humaines de l’université du Burundi et celles de conseiller du recteur chargé de la coopération. Il était également titulaire de la chaire de l’UNESCO pour les droits de l’homme et la résolution pacifique des conflits et ministre de la Fonction publique, du Travail et de la Sécurité sociale au Burundi. 
 
-## THEME: LES JEUNES PLUMES AFRICAINS
-
-Eugène Ébodé vous présente son ouvrage "Souveraine Magnifique" aux éditions Gallimard.
-
-
-{{< youtube vZ8b5j60UFw >}}
+Il a publié son premier roman <em>Les Années avalanche</em> en 2012 (AML, Bruxelles) et plusieurs essais dont <em>Boubou Hama et Amadou Hampâté Bâ : La négritude des sources</em>(Paris, Publisud-ACCT, 1993), Ainsi parlait <em>Hampâté Bâ </em> (Bujumbura, université du Burundi, 1997), <em>La Littérature de langue française au Burundi</em> (Bruxelles, AML, 2013), récompensé par le Prix de La Renaissance française de l’Académie des Sciences d’outre-mer, et Le Regard étranger : L’image du Burundi dans les littératures belge et française (Berne, Peter Lang, 2014).
+<em>Je fête donc je suis</em> est son deuxième roman, publié dans la collection Sembura en 2021. Il est également contributeur à l’ouvrage collectif <em>Qu’est-ce l’Afrique ? Réflexions sur le continent africain et perspectives</em>  (Sembura, 2021) et préfacier de l’<em>Anthologie 3 : Convergences, positiver l’autre</em>.
 
 
-
-
-
-
-{{ }}
-
-<iframe width="720" height="530" src="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc58njx8y66/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+![Rabiaa](https://boremandjo.imgix.net/juvenal.jpg)
