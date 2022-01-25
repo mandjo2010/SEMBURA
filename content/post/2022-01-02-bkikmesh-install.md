@@ -27,16 +27,12 @@ categories: [ Agenda ]
 
 ## Appel à contributions pour un ouvrage collectif sur le thème : Les institutions en Afrique : passé, présent et avenir
 
-Après la publication du livre collectif Qu’est-ce que l’Afrique ? Réflexions sur le continent 
-africain et perspectives (Collection Sembura, La Croisée des chemins, Casablanca, 2021), préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc, cet appel à contributions vise à poursuivre, en 2022, la moisson des idées pour une renaissance panafricaine. Le thème retenu est le suivant : « Les institutions en Afrique : passé, présent et avenir ».
+Après la publication du livre collectif *Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives* (Collection Sembura, La Croisée des chemins, Casablanca, 2021), préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc, cet appel à contributions vise à poursuivre, en 2022, la moisson des idées pour une renaissance panafricaine. Le thème retenu est le suivant : « Les institutions en Afrique : passé, présent et avenir ».
 
-Changer la perception de l’Afrique sur elle-même, tel est l’enjeu de la plateforme « Sembura », 
-collection qui publiera cet ouvrage au Maroc. L’ambition poursuivie porte sur la libre conversation sur l’Afrique formulée par ses intellectuels, ses habitants, sa diaspora et des citoyens du monde. En inaugurant cet espace conversationnel par une interrogation liminaire « Qu’est-ce que l’Afrique ? », nous voulions reposer les bases d’un débat africain interpellant ceux et celles qui « ont l’Afrique au cœur et le cœur en Afrique », selon la trouvaille sans équivoque de Mme Rabiaa Marhouch.
+Changer la perception de l’Afrique sur elle-même, tel est l’enjeu de la plateforme « Sembura », collection qui publiera cet ouvrage au Maroc. L’ambition poursuivie porte sur la libre conversation sur l’Afrique formulée par ses intellectuels, ses habitants, sa diaspora et des citoyens du monde. En inaugurant cet espace conversationnel par une interrogation liminaire « *Qu’est-ce que l’Afrique ?*», nous voulions reposer les bases d’un débat africain interpellant ceux et celles qui « ont l’Afrique au cœur et le cœur en Afrique », selon la trouvaille sans équivoque de Mme Rabiaa Marhouch (1).
 
 
-L’objectif principal de l’ouvrage à venir sur les institutions en Afrique est de mieux faire 
-connaître aux lecteurs en général et au public africain en particulier les institutions nationales, régionales, transnationales, voire internationales, qui ont régi, régissent ou régiront la marche du continent et la vie de ses populations. Certes, un principe de droit proclame que « nul n’est censé ignorer la loi », mais trois obstacles essentiels nous paraissent contrarier une bonne connaissance des cadres légaux, ritualisés ou consacrés par les Africains : la faible mobilisation du système éducatif pour les populariser, l’intérêt encore timoré des intellectuels pour en débattre, la complexité des instances concernées et les problèmes issus de la modification de ces instances, voire de leur insertion dans une Afrique bouleversée par diverses convoitises. Par ailleurs, la taille du continent et la diversité institutionnelle qui le caractérise sont un paramètre qui complique l’analyse comme la vulgarisation. Aussi, toute ambition de réduire les opacités et les méconnaissances dépend de la levée du brouillard 
-institutionnel qui accentue la distance des citoyens africains avec leurs propres cadres institutionnels.L’exemple le plus évocateur de cette distance est celui des chartes fondamentales (constitutions) et des difficultés actuelles à les pérenniser, à les faire vivre sans heurts et à favoriser les modes d’adhésion, d’approfondissement, de création du droit par des décisions novatrices de cours constitutionnelles jouant réellement leur rôle afin de proposer des processus de préservation de la paix civile. Les chartes qui régissent nombre d’États africains semblent élastiques et précaires. Les populations le perçoivent bien 
+L’objectif principal de l’ouvrage à venir sur les institutions en Afrique est de mieux faire connaître aux lecteurs en général et au public africain en particulier les institutions nationales, régionales, transnationales, voire internationales, qui ont régi, régissent ou régiront la marche du continent et la vie de ses populations. Certes, un principe de droit proclame que « nul n’est censé ignorer la loi », mais trois obstacles essentiels nous paraissent contrarier une bonne connaissance des cadres légaux, ritualisés ou consacrés par les Africains : la faible mobilisation du système éducatif pour les populariser, l’intérêt encore timoré des intellectuels pour en débattre, la complexité des instances concernées et les problèmes issus de la modification de ces instances, voire de leur insertion dans une Afrique bouleversée par diverses convoitises. Par ailleurs, la taille du continent et la diversité institutionnelle qui le caractérise sont un paramètre qui complique l’analyse comme la vulgarisation. Aussi, toute ambition de réduire les opacités et les méconnaissances dépend de la levée du brouillard institutionnel qui accentue la distance des citoyens africains avec leurs propres cadres institutionnels.L’exemple le plus évocateur de cette distance est celui des chartes fondamentales (constitutions) et des difficultés actuelles à les pérenniser, à les faire vivre sans heurts et à favoriser les modes d’adhésion, d’approfondissement, de création du droit par des décisions novatrices de cours constitutionnelles jouant réellement leur rôle afin de proposer des processus de préservation de la paix civile. Les chartes qui régissent nombre d’États africains semblent élastiques et précaires. Les populations le perçoivent bien 
 et semblent indifférentes à des objets juridictionnels difficilement identifiables et instables. Des constitutions sans cesse modifiables et adoptées parfois à la sauvette contiennent et distillent un poison où qu’elles s’appliquent. Ce poison ne peut produire qu’une vie publique elle-même anémiée, soumise à de constants chahuts et vouée à une agonie programmée. 
 
 L’Europe a connu, depuis la Grèce antique, les guerres médiques ou puniques, avant de basculer 
@@ -82,16 +78,19 @@ et retaillée pour une nouvelle dynamique panafricaine.
 Ces réflexions autour des institutions africaines anciennes, actuelles et à venir pourront englober plusieurs domaines : spirituel, familial, éducatif, sportif, monétaire, justice traditionnelle, justice restaurative, économie circulaire, défense collective, environnement, diplomatie, etc.
 
 
-> Les propositions d’articles en français, d’une longueur de 15 000 signes et caractères, y compris les références bibliographiques, sont à envoyer aux adresses suivantes :
-collectionsembura@gmail.com, eugeneebode@gmail.com
+> **Les propositions d’articles en français, d’une longueur de 15 000 signes et caractères, y compris les références bibliographiques, sont à envoyer aux adresses suivantes** :
+**collectionsembura@gmail.com, eugeneebode@gmail.com**
 
-Merci d’ajouter à votre envoi une courte biographie. 
+**Merci d’ajouter à votre envoi une courte biographie.** 
 
-Le public visé : grand public. 
+**Le public visé : grand public.** 
 
-La date limite de soumission des textes est fixée au 15 mai 2022.
+**La date limite de soumission des textes est fixée au 15 mai 2022.**
 
-> N.B. La collection « Sembura » est également ouverte aux textes de fiction, tous genres littéraires confondus, qui ont pour cadre l’Afrique et ses réalités. Les manuscrits sont à envoyer à l’adresse suivante : collectionsembura@gmail.co
+>**N.B. La collection « Sembura » est également ouverte aux textes de fiction, tous genres littéraires confondus, qui ont pour cadre l’Afrique et ses réalités. Les manuscrits sont à envoyer à l’adresse suivante : collectionsembura@gmail**.
+
+>>> (1). Allocution de Rabiaa Marhouch prononcée le 17 novembre 2021 à l’Académie du Royaume du Maroc.
+
 
 
 

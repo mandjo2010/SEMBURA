@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:     post 
 title:      "THE SEMBURA COLLECTION AND ITS LITERARY PUBLICATIONS "
 subtitle:   "The Sembura collection and its literary publications at the Royal Academy"
@@ -15,3 +15,4 @@ tags:
 URL: "/2021/11/23/nginmesh-install/"
 categories: [ Revue de presse ]
 ---
+ -->

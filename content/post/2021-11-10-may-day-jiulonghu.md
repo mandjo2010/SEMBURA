@@ -1,12 +1,12 @@
 ---
-layout:     post
-title:      "QU'EST-CE QUE L'AFRIQUE ?"
-subtitle:   "Réflexions sur le continent africain et perspectives"
+layout: post
+title: "QU'EST-CE QUE L'AFRIQUE ?"
+subtitle: "Réflexions sur le continent africain et perspectives"
 description: "
 D’où vient le mot Afrique ? Que signifie cette appellation pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?
 "
-date:       2021-11-10T11:00:27+02:00
-author:     "collectif sous la direction de Rabiaa MARHOUCH et Eugène ÉBODÉ"
+date: 2021-11-10T11:00:27+02:00
+author: "collectif sous la direction de Rabiaa MARHOUCH et Eugène ÉBODÉ"
 image: "https://boremandjo.imgix.net/photo-1614531341773-3bff8b7cb3fc.jpg"
 published: true
 hide-in-home: true

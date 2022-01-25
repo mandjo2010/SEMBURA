@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "“WHAT IS AFRICA?” A CULTURAL FEAST UNDER THE DOME OF THE ARM"
-subtitle:   "A cultural feast under the dome of the ARM"
+title:      "THE SEMBURA COLLECTION AND ITS LITERARY PUBLICATIONS "
+subtitle:   "The Sembura collection and its literary publications at the Royal Academy"
 description: "“What is Africa? Is the title of a collective work by African intellectuals and the diaspora, whose presentation took place on November 17 at the Academy of the Kingdom of Morocco (ARM). It is the Sembura collection and its literary publications including the work in question, prefaced by Professor Abdeljalil Lahjomri, Perpetual Secretary of the ARM and edited by the editions “The Crossroads in Casablanca” of which Abdelkader Retnani, president of the Professional Union of Publishers of Morocco, is the director."
 excerpt: " "
 date:       2021-11-17 12:00:00

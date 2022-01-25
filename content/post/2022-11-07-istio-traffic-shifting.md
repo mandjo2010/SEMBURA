@@ -1,11 +1,11 @@
 ---
-layout:     post
-title:      "JUVENAL NGORWANUBUSA"
-subtitle:   "Écrivain et professeur des universités "
+layout: post
+title: "JUVENAL NGORWANUBUSA"
+subtitle: "Écrivain et professeur des universités "
 description: "Juvénal Ngorwanubusa est né en 1953 à Kiganda, province de Muramvya, au Burundi. Titulaire d’un doctorat en Philosophie et Lettres, obtenu à l’université Catholique de Louvain, il est actuellement professeur des littératures française, francophones et comparées à l’université du Burundi."
 excerpt: "mérite d’être inlassablement rappelé…"
-date:         2022-22-01 01:00:00
-author:     "Rabiaa"
+date: 2022-22-01 01:00:00
+author: "Rabiaa"
 image: "https://boremandjo.imgix.net/istockphoto-858340948-612x612.jpg"
 published: true 
 tags:

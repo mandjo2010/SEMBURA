@@ -1,6 +1,6 @@
 ---
-layout:     post 
-title:      "
+layout: post 
+title: "
 أكاديمية المملكة المغربية تعرض سمبورا احتفاء بمكانة القارة الإفريقية  "
 subtitle:   ""
 description: "
@@ -10,9 +10,8 @@ description: "
 
 "
 excerpt: "contribuer à la promotion de la littérature africaine"
-date:       2021-11-17 19:32:00
-author:     "هسبريس
-"
+date: 2021-11-17 19:32:00
+author: "هسبريس"
 image: "https://boremandjo.imgix.net/pexels-photo-2113566.jpeg"
 published: true
 tags:

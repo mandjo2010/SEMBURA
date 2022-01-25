@@ -1,6 +1,6 @@
 ---
-layout:     post 
-title:      "PACIFIQUE DOCILE"
+layout: post 
+title: "PACIFIQUE DOCILE"
 subtitle:   "Écrivain et professeur des universités "
 description: "Pacifique Docile est originaire de Rutegama, province Muramvya, au Burundi. Titulaire d’un doctorat en Langues, Lettres et traductologie de l’université Libre de Bruxelles, il est enseignant à l’université du Burundi. Il doit son goût pour la littérature à sa mère qui lui lisait des contes en français dont elle faisait instantanément une traduction en kirundi. "
 date:       2022-01-08 12:00:00

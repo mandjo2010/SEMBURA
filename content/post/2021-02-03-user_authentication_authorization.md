@@ -1,17 +1,16 @@
 ---
-layout:     post 
-title:      "MAROC, AFRIQUE: CONSTRUIRE L'AVENIR PAR LA CULTURE"
-subtitle:   "Construire l'avenir par la culture"
+layout: post 
+title: "MAROC, AFRIQUE: CONSTRUIRE L'AVENIR PAR LA CULTURE"
+subtitle: "Construire l'avenir par la culture"
 description: "Le Royaume du Maroc déploie toute sa diplomatie pour devenir une plaque tournante de l’activité culturelle, un trait d’union entre le monde arabe et l’Afrique noire. L’ACADÉMIE du Royaume du Maroc a reçu une cinquantaine d’intellectuels et d’écrivains africains et de la diaspora mercredi 17 novembre 2021 à Rabat. Parmi eux, une délégation de professeurs et d’auteurs du Burundi, Rwanda et RDC étaient les hôtes de l’Académie à l’occasion de la parution de plusieurs ouvrages de la collection Sembura (de la maison d’édition casablancaise La Croisée des Chemins)."
 excerpt: "contribuer à la promotion de la littérature africaine"
-date:       2019-02-03 12:00:00
-author:     "Rabiaa"
+date: 2019-02-03 12:00:00
+author: "Rabiaa"
 image: "https://boremandjo.imgix.net/photo-1519682337058-a94d519337bc.jpg"
 published: true
 tags:
     - Littérature
-    - Afrique
-    
+    - Afrique 
     - Maroc
 URL: "/2019/02/03/user_authentication_authorization/"
 categories: [Revue de presse]

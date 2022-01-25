@@ -1,10 +1,10 @@
 ---
-layout:     post 
-title:      "EPAPHRODITE BINAMUNGU "
-subtitle:   "Artiste-peintre et sculpteur"
+layout: post 
+title: "EPAPHRODITE BINAMUNGU "
+subtitle: "Artiste-peintre et sculpteur"
 description: "Epaphrodite Binamungu est né le 8 octobre 1954 à Huye au Rwanda. Artiste-peintre et sculpteur depuis une quarantaine d’années, ses tableaux sont composés de matériaux de son environnement, ponctués de lignes pures, de reflets chromatiques prononcés et de contrastes en clair-obscur. "
-date:       2020-01-02 12:00:00
-author:     "Rabiaa"
+date: 2020-01-02 12:00:00
+author: "Rabiaa"
 image: "https://boremandjo.imgix.net/istockphoto-1209026953-612x612.jpg"
 published: true
 tags:

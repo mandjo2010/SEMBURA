@@ -1,11 +1,11 @@
 ---
-layout:     post 
-title:      "LES PUBLICATIONS LITTÉRAIRES DE SEMBURA "
-subtitle:   "Présentation à l’Académie du Royaume du Maroc"
+layout: post 
+title: "LES PUBLICATIONS LITTÉRAIRES DE SEMBURA "
+subtitle: "Présentation à l’Académie du Royaume du Maroc"
 description: "La collection Sembura créée en janvier 2021 et dirigée par docteure Rabiaa Marhouch, présente la première livraison de son catalogue littéraire.Cette collection s’inscrit dans la continuité du travail des universitaires vivant dans les Grands Lacs africains et d’intellectuels africains de la diaspora africaine qui se sont impliqués dans un projet éducatif, créatif et fédérateur depuis 2010, celui …"
 excerpt: "contribuer à la promotion de la littérature africaine"
-date:       2021-11-23 19:32:00
-author:     "Maroc diplomatique"
+date: 2021-11-23 19:32:00
+author: "Maroc diplomatique"
 image: "https://boremandjo.imgix.net/pexels-photo-2387873.jpeg"
 published: true
 tags:

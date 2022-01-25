@@ -1,11 +1,11 @@
 ---
-layout:     post
-title:      "QU'EST CE QUE L'AFRIQUE ?"
-subtitle:   "Présentation du livre Qu'est-ce que l'Afrique?"
+layout: post
+title: "QU'EST CE QUE L'AFRIQUE ?"
+subtitle: "Présentation du livre Qu'est-ce que l'Afrique?"
 description: "Ce livre de 260 pages est une contribution collective de 21 écrivains d'Afrique et du Maroc, dont des auteurs de la communauté africaine à l'étranger.Rabat — L'Académie du Royaume du Maroc a abrité, mercredi, la cérémonie de présentation d'un livre collectif intitulé Qu'est-ce que l'Afrique? Réflexions sur le continent africain et perspectives, édité par les Éditions La Croisée des Chemins"
 excerpt: ""
-date:       2021-11-17 15:00:00
-author:     "Maghreb Arabe Presse"
+date: 2021-11-17 15:00:00
+author: "Maghreb Arabe Presse"
 image: "https://boremandjo.imgix.net/photo-1614531341773-3bff8b7cb3fc.jpg"
 published: true
 tags:

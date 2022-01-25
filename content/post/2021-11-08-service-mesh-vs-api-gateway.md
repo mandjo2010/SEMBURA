@@ -1,11 +1,11 @@
 ---
-layout:     post
-title:      "ANTHOLOGIE 3 : CONVERGENCES "
-subtitle:   "Positiver l'autre"
+layout: post
+title: "ANTHOLOGIE 3 : CONVERGENCES "
+subtitle: "Positiver l'autre"
 description: "Avec Convergences, positiver l’autre, titre que nous avons ici le privilège de présenter au lecteur, l’heure n’est plus au constat ni à la simple plaidoirie, mais au mouvement à faire vers l’Autre, avec empathie, ce dernier mot étant entendu dans le sens d’un effort de compréhension intellectuelle de l’Autre et d’une capacité à se mettre à sa place pour apprendre non seulement à respecter, mais à valoriser positivement son système de référence. "
-excerpt: " "
-date:      2021-11-08T11:00:27+02:00
-author:     "collectif"
+excerpt: ""
+date: 2021-11-08T11:00:27+02:00
+author: "collectif"
 image: "https://boremandjo.imgix.net/photo-1484318571209-661cf29a69c3.jpg"
 published: true
 tags:

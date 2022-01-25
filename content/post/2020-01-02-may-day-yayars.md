@@ -1,10 +1,10 @@
 ---
-layout:     post 
-title:      "EMMANUEL CIRIMWAMI BARHATULIRWA"
-subtitle:   "Enseignant"
-description: "Emmanuel Cirimwami Barhatulirwa, originaire de la province du Sud-Kivu (RDC), docteur en Didactique du français et des langues africaines, il est professeur associé à l’Institut Supérieur Pédagogique de Bukavu et secrétaire scientifique du Centre de Recherches universitaires du Kivu.  "
-date:       2020-01-02 12:00:00
-author:     "Rabiaa"
+layout: post 
+title: "EMMANUEL CIRIMWAMI BARHATULIRWA"
+subtitle: "Enseignant"
+description: "Emmanuel Cirimwami Barhatulirwa, originaire de la province du Sud-Kivu (RDC), docteur en Didactique du français et des langues africaines, il est professeur associé à l’Institut Supérieur Pédagogique de Bukavu et secrétaire scientifique du Centre de Recherches universitaires du Kivu."
+date: 2020-01-02 12:00:00
+author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-10906153.jpeg"
 published: true
 tags:

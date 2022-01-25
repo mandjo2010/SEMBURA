@@ -1,4 +1,4 @@
-# Clean White Theme for Hugo
+<!-- # Clean White Theme for Hugo
 
 CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.
 
@@ -252,4 +252,4 @@ If you find any problems, please feel free to [raise an issue](https://github.co
 If it's helpful for you, I would appreciate it if you could star this repository, thanks!
 
 ## Who is using cleanwhite？(谁在使用 cleanwhite？) 
-Sincerely thank everyone who constantly keeps on using and supporting cleanwhite. Feel free to leave a comment on [this issue](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115) to include information about your blog.
+Sincerely thank everyone who constantly keeps on using and supporting cleanwhite. Feel free to leave a comment on [this issue](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115) to include information about your blog. -->

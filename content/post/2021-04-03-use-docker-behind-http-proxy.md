@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "L’ACADEMIE DU ROYAUME DU MAROC PRESENTE L’OUVRAGE COLLECTIF « QU’EST-CE QUE L’AFRIQUE ? »"
-subtitle:   "Présentation de la Collection Sembura "
+layout: post
+title: "L’ACADEMIE DU ROYAUME DU MAROC PRESENTE L’OUVRAGE COLLECTIF « QU’EST-CE QUE L’AFRIQUE ? »"
+subtitle: "Présentation de la Collection Sembura "
 description: "L’Académie du Royaume du Maroc a présenté le mercredi 17 novembre 2021 les premières parutions littéraires de la «Collection Sembura» dont l’ouvrage collectif « Qu’est-ce que l’Afrique ? ». Un ouvrage collectif d’intellectuels africains et de la diaspora préfacé par le professeur Abdeljalil Lahjomri, Secrétaire perpétuel de l’ARM et édité par les éditions « La Croisée des chemins à Casablanca »."
-date:       2021-04-03 12:00:00
-author:     "L'Observateur du Maroc et d'Afrique"
+date: 2021-01-03 
+author: "L'Observateur du Maroc et d'Afrique"
 image: "https://boremandjo.imgix.net/photo-1502764613149-7f1d229e230f.jpg"
 published: true
 tags:
@@ -13,7 +13,7 @@ tags:
     - Maroc 
     - Academie 
     
-URL: "/2021/04/03/use-docker-behind-http-proxy/"
+URL: "/2021/01/03/use-docker-behind-http-proxy/"
 categories: [Revue de presse]
 ---
 
