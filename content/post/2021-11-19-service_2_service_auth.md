@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "ACADEMIE DU ROYAUME DU MAROC"
+subtitle:   "Présentation des premières parutions littéraires de la «Collection Sembura»"
+description: "La première livraison littéraire de la «Collection Sembura» a été officiellement présentée au siège de l’Académie du Royaume du Maroc à Rabat, lors d’une rencontre solennelle à laquelle ont pris part les artisans de ce projet éditorial novateur.«Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» et «Je fête donc je suis» sont les prémices littéraires de …"
+showonlyimage: false
+excerpt: "L’Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées."
+date:       2021-11-19 17:47:00
+author:     "Le Matin du Sahara et du Maghreb"
+image: "https://boremandjo.imgix.net/MAROC.PNG"
+published: true 
+tags:
+    - Afrique
+    - Lac
+    - Littérature
+URL: "/2021/11/19/service_2_service_auth/"
+categories: [ Revue de presse ]    
+---
+
+«Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» et «Je fête donc je suis» sont les prémices littéraires de la «Collection Sembura», qui a vu le jour en janvier 2021. Fruit d’une collaboration entre la plateforme «Sembura, ferment littéraire» des Grands Lacs africains et la maison d’édition «La Croisée des Chemins», et bénéficiant du soutien de l’Académie du Royaume du Maroc et de la Fondation Corymbo, ce projet a vocation à promouvoir la littérature africaine. Il se consacre à la littérature générale, tous genres confondus, et accorde une importance particulière à l’accès aux anthologies dédiées à la création littéraire, notamment celle des jeunes auteurs de la région des Grands Lacs.
+
+«Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» est un ouvrage collectif préfacé par le secrétaire perpétuel de l’Académie du Royaume du Maroc, Abdeljalil Lahjomri. Dirigé par la directrice de la «Collection Sembura», écrivaine et chroniqueuse littéraire, Rabiaa Marhouch, et l’écrivain et critique littéraire Eugène Ébodé, cet ouvrage réunit les contributions de 21 écrivains et intellectuels africains, issus de la diaspora africaine, et européens.
+
+«L’Afrique à plusieurs voix» d’Ali Benmakhlouf, «L’Afrique, un visage à reconfigurer» de Gaston-Paul Effa, «L’Afrique expliquée à mes enfants» de Jean-Claude Tchatchouang, «Ce que je dois à l’Afrique» d’Antoine Barral, «L’essence d’une vie africaine» d’Adama Sangaré, «L’hymne des origines» de Abdellah Baïda ou encore «Mon Afrique n’existe pas encore» de Gaston Kelman, sont toutes des contributions qui tentent de fournir un élément de réponse à la question «Qu’est-ce que l’Afrique ?»
+«Que signifie cette appellation (Afrique) pour celles et ceux qui parlent au nom de l’Afrique ? Bousculée par l’Histoire et la géologie, morcelée par les langues, les groupes humains, les références identitaires, sociales, culturelles et cultuelles, chahutée par les conflits endogènes et dépouillée par les convoitises de puissances externes, l’Afrique peut-elle aspirer à autre chose qu’à l’apitoiement ?» lit-on dans la préface intitulée «Notre Afrique», signée par le professeur Abdeljalil Lahjomri. «Les vingt-et-un auteurs réunis dans cet ouvrage réfutent l’historiographie du fatalisme qui laisse accroire qu’une malédiction se serait abattue sur l’Afrique au point de la rendre politiquement ingouvernable et philosophiquement rétive à toute entreprise de remembrement», précise M. Lahjomri.
+À propos du choix du Maroc pour la création de la «Collection Sembura», consacrée à la littérature d’Afrique, Mme Marhouch a indiqué qu’il s’explique par les atouts structurels et culturels dont dispose le Royaume, sa place et sa valeur particulière auprès des Africains. Le Royaume s’attache à la promotion de la culture africaine grâce à ses institutions, à l’engagement de ses responsables et à la vision panafricaine de S.M. le Roi Mohammed VI qui tient à faire émerger l’Afrique à tous les niveaux. «Nous avons des institutions prestigieuses comme l’Académie du Royaume du Maroc, une magnifique Bibliothèque nationale, et en amont une réelle volonté de faire rayonner l’Afrique.
+
+Cet ensemble fait du Maroc la destination la mieux qualifiée pour faire aboutir ce projet», a souligné Mme Marhouch dans une déclaration au «Matin». De son côté, l’éditeur Abdelkader Retnani s’est dit fier que sa maison d’édition «La Croisée des Chemins» prenne part à ce projet, soutenu par l’Académie du Royaume du Maroc, lequel représente une nouveauté en Afrique et s’inscrit dans la droite ligne de la vision de S.M. le Roi Mohammed VI pour une Afrique active et dynamique sur tous les tableaux. «Cette première livraison composée de huit titres, dont trois anthologies en format EPUB téléchargeables gratuitement sur notre site, s’inscrit également dans le cadre de la célébration de Rabat comme capitale africaine de la culture. Une deuxième livraison est prévue en avril 2022», a fait savoir M. Retnani dans une déclaration au «Matin», ajoutant que les premières parutions seront disponibles en Afrique et en France en décembre prochain.
+
+Pour la deuxième œuvre qui a été présentée lors de cette réunion, «Je fête donc je suis», son auteur, le professeur à l’Université du Burundi Juvénal Ngorwanubusa, a indiqué dans une déclaration au «Matin» que ce roman «renvoie à la tradition burundaise où la fête occupe une place importante dans la vie de la population surtout pendant la saison sèche où on organise des fêtes de mariage ou des levées de deuil. Au terme de cette saison, les gens se retrouvent appauvris à force de trop dépenser». «La fête, elle est là, mais il ne faut pas exagérer», souligne M. Ngorwanubusa, précisant qu’au Burundi, comme dans beaucoup de pays africains, la tendance est aux fêtes dispendieuses et, aujourd’hui, on célèbre même des fêtes venues de l’étranger et qui n’existaient pas auparavant.

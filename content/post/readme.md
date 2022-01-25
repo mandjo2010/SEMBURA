@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "CONCILIE BIGIRIMANA"
-subtitle:   "Écrivain"
+subtitle:   "Écrivain et professeur des universités "
 description: "Concilie Bigirimana est née le 23 mai 1972 dans la commune de Mugamba au Burundi. Enseignante au département de langue et littérature françaises dont elle est actuellement responsable, elle a participé également aux activités de plateforme « Sembura, Ferment littéraire » et fait partie des membres fondateurs du Patrimoine littéraire d’Afrique centrale au Burundi. "
 date:         2022-22-01 04:00:00
 author:     "Rabiaa"

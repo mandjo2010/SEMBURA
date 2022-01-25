@@ -216,7 +216,7 @@
         _.opts.toggle = !!_.opts.toggle ? d.getElementById(_.opts.toggle) : null;
         _.opts.autoCreate = !!_.opts.autoCreate || !!_.opts.auto;
 
-        // emoji 表情
+        // emoji 
         _.opts.emojiPath = _.opts.emojiPath || _.opts.emoji_path || 'https://cdn.jsdelivr.net/emojione/assets/png/';
         _.emojiList = _.opts.emojiList || _.opts.emoji_list || [{
             code:'smile',
