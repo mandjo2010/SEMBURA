@@ -18,7 +18,8 @@ categories: [ Forum ]
 ---
 
 
-La thèse « aura été comme un premier amour : il vous sera difficile de l’oublier » ! Umberto Eco dans Comment écrire sa thèse, Flammarion, 2016.
+> La thèse « aura été comme un premier amour : il vous sera difficile de l’oublier » ! Umberto Eco dans *Comment écrire sa thèse*, Flammarion, 2016.
+
 Cet espace est dédié aux articles et aux échanges entre doctorant.e.s d’Afrique et d’ailleurs qui entreprennent des recherches sur les littératures africaines. 
 
 

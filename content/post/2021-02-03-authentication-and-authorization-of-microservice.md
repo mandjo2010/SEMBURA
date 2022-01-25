@@ -16,8 +16,6 @@ URL: "/2020/05/22/user_authentication_authorization/"
 categories: [ Revue de presse ]
 ---
 
-## La collection Sembura
-
 La collection Sembura créée en janvier 2021 et dirigée par docteure Rabiaa Marhouch, présente la première livraison de son catalogue littéraire.
 
 Cette collection s’inscrit dans la continuité du travail des universitaires vivant dans les Grands Lacs africains et d’intellectuels africains de la diaspora africaine qui se sont impliqués dans un projet éducatif, créatif et fédérateur depuis 2010, celui de « Sembura, ferment littéraire ».
