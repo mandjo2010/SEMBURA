@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "JEAN-CLAUDE NDIKUMAZAMBO"
-subtitle:   "Passionné"
+subtitle:   "Ecrivain"
 description: "Jean-Claude Ndikumazambo est né en 1980 à Kigozi, une commune de Mukike dans la province de Bujumbura. Il a fait ses études secondaires au Petit Séminaire de Kanyosha où il a obtenu son diplôme en Humanités générales, avant de rejoindre l’université du Burundi, en 2003, où il décroche une licence en Langue et Littérature anglaises. "
 date:       2022-01-20 12:00:00
 author:     "Rabiaa"
