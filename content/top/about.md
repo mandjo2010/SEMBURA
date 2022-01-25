@@ -13,3 +13,7 @@
 
 Créée et dirigée par Rabiaa Marhouch, **La collection Sembura** est soutenue par la fondation zurichoise Corymbo.
 
+
+Pour plus d'information voir ce lien ci dessous sur le thème: *Reconnecter les littératures des Grands Lacs africains : L'initiative "Sembura", par Pierre Boizette, chercheur postdoctoral, IFRA, Nairobi* <BR>
+[Reconnecter...]( https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc58njx8y66/iframe/)<BR>
+
