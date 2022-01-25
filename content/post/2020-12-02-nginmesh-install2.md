@@ -3,7 +3,7 @@ layout: post
 title: "SEMBURA, UNE AFRIQUE QUI FAIT COULER BEAUCOUP D’ENCRE"
 subtitle: "Lancement de sa collection africaine, Sembura"
 description: "Il y a quelques semaines, la Croisée des Chemins inaugurait le lancement de sa collection africaine, Sembura. Un projet soutenu par l’Académie du Royaume, et dont l’ouvrage phare, “Qu’est-ce que l’Afrique ?”, coordonné par Eugène Ebodé, réunit une vingtaine d’auteurs et intellectuels. Ce livre collectif sera réédité aux éditions Gallimard au mois de mars 2022."
-date: 2020-12-02 12:00:00  
+date: 2020-12-02T02:46:51+08:00
 author: "TelQuel"
 image: "https://boremandjo.imgix.net/pexels-photo-415078.jpeg"
 published: true

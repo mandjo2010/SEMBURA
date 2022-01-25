@@ -4,7 +4,7 @@ title: "BOUBACAR BORIS DIOP"
 subtitle: "Écrivain"
 description: "Boubacar Boris Diop, né à Dakar le 26 octobre 1946, est un écrivain et intellectuel sénégalais. Après avoir travaillé pour plusieurs journaux sénégalais, il continue de collaborer à des titres de la presse étrangère. La résidence d’auteurs « Rwanda : écrire par devoir de mémoire » lui a permis de prendre toute la mesure du génocide des Tutsis. "
 excerpt: "Bienvenue sur le site internet de la collection Sembura "
-date: 2022-01-22 
+date: 2022-01-22T03:36:51+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-1233286.jpeg"
 published: true

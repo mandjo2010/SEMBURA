@@ -3,7 +3,7 @@ layout: post
 title: "DOMITIEN NIZIGIYIMANA"
 subtitle: "Professeur de littérature"
 description: "Domitien Nizigiyimana, né en 1955 à Muruta au Burundi, est professeur de littérature à l’université du Burundi, à Bujumbura. Titulaire d’une licence en Lettres modernes de l’École Normale supérieure, cette qualification lui permettra d’accomplir diverses activités d’enseignement et d’encadrement de la jeunesse au Collège du Saint-Esprit,"
-date: 2022-01-15 12:00:00
+date: 2022-01-15T11:00:00+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-10906153.jpeg"
 published: true

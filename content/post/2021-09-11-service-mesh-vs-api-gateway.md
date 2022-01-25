@@ -4,7 +4,7 @@ title: "ANTHOLOGIE 1: ÉMERGENCES"
 subtitle: "Renaître ensemble"
 description: "« En définitive, quels que soient les choix esthétiques de chaque auteur de ce recueil, le démon de la haine y est toujours nommé, seul moyen de l’exorciser. Muzirankoni, l’imbattable du Rwandais Augustin Gasake se termine par cette jolie invite, sans doute rituelle: «Je remets le conte là où je l’ai détaché, qui veut le perpétuer le prend»."
 excerpt: "Je remets le conte là où je l’ai détaché, qui veut le perpétuer le prend "
-date: 2021-09-11 09:32:00    
+date: 2021-09-11T03:05:28+08:00
 author: "collectif"
 image: "https://boremandjo.imgix.net/pexels-photo-631317%20(1).jpeg"
 published: true

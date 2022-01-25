@@ -3,7 +3,7 @@ layout: post
 title: "FIDELE KABY MUHUBAO"
 subtitle: "Professeur des universités"
 description: "Fidèle Kaby Muhubao est professeur des universités à l’Institut Supérieur Pédagogique de Bukavu, en République Démocratique du Congo. Critique littéraire et écrivain, il a publié quatre romans chez Le Pangolin (Belgique) : Objectif quatre vins, La Gousse vide, Feuilles de chez nous et Les Mousquetaires modernes. "
-date: 2022-01-14 12:00:00
+date: 2022-01-14T18:00:00+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-1233286.jpeg"
 published: true

@@ -28,11 +28,11 @@
             {{ end }}
         {{ end }}
     {{ else }}
-    Écrit par {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }} le {{.Date.Format "Lundi 02 Janvier 2006" }}
-        <!-- Don't show "Last Modified on" if update happened on the same day. -->
-        {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
-                            <br>Last Modified on {{ dateFormat "Lundi, Janvier 02, 2006" .Params.LastMod }}
-                            {{ end }}
+    Écrit par {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}  {{ .Date.Format "Monday, January 2, 2006" }}
+    <!-- Don't show "Last Modified on" if update happened on the same day. -->
+    {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
+        <br>Last Modified on {{ dateFormat "Monday, January 2, 2006" .Params.LastMod }} 
+    {{ end }}
                         {{ end }} 
     </p>
 

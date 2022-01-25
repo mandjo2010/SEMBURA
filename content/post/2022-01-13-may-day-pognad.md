@@ -3,7 +3,7 @@ layout: post
 title: "BEATRICE YANZIGIYE"
 subtitle: "Directrice de Confucius Institute"
 description: "Béatrice Yanzigiye est docteure en Études françaises, francophones et comparées, diplôme obtenu en mai 2009 à l’université Michel de Montaigne, Bordeaux III. Titulaire d’un Postgraduate Certificate in Learning and Teaching in Higher Éducation (2010), "
-date: 2022-01-13 12:00:00
+date: 2022-01-13T18:00:00+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-6210499.jpeg"
 published: true

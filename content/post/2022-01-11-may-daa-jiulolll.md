@@ -3,7 +3,7 @@ layout:     post
 title:      "JEAN-CLAUDE MAKOMO MAKITA"
 subtitle:   "Écrivain et professeur des universités "
 description: "Jean-Claude Makomo Makita était écrivain, critique littéraire et universitaire congolais. Il était directeur provincial du CIDEP Sud-Kivu, professeur de langue et de littérature françaises à l’Institut Supérieur de Bukavu et directeur du Centre de recherches universitaire du Kivu.  "
-date:       2020-01-02 12:00:00
+date:  2022-01-11T17:00:00+08:00
 author:     "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-2600207.jpeg"
 published: true

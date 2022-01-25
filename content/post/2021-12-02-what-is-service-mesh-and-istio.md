@@ -3,7 +3,7 @@ layout: post
 title: "SEMBURA PRESENTEE A L’ACADEMIE DU ROYAUME DU MAROC"
 subtitle: "Présentation de la collection Sembura à l'academie du Maroc"
 description: "L’Académie du Royaume du Maroc a abrité le lancement de la collection Sembura et ses publications littéraires dont l’ouvrage collectif « Qu’est-ce que l’Afrique ? », préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc."
-date: 2021-12-02 12:00:00
+date:  2021-12-02T13:00:00+08:00
 author: "Femmes du Maroc"
 image: "https://boremandjo.imgix.net/photo-1508780709619-79562169bc64.jpg"
 published: true

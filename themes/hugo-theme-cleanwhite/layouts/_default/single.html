@@ -40,13 +40,13 @@
                                     {{ .Site.Title }}
                             {{ end }} 
                             le 
-                            {{ .Date.Format "Lundi 02 Janvier 2006"}}
+                            {{ .Date.Format "Monday, January 2, 2006" }}
                             {{ if .Site.Params.page_view_conter }}
                                 {{ partial "page_view_counter.html" . }}
-                            {{ end }} 
+                            {{ end }}
                             <!-- Don't show "Last Modified on" if update happened on the same day. -->
-                           {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
-                            <br>Last Modified on {{ dateFormat "Lundi, Janvier 02, 2006" .Params.LastMod }}
+                            {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
+                            <br>Last Modified on {{ dateFormat "Monday, January 2, 2006" .Params.LastMod }}
                             {{ end }}
                         {{ end }}    
                     </span>
@@ -72,7 +72,7 @@
                 <!--
                 {{ if not (eq (.Param "showtoc") false) }}
                 <header>
-                    <h2>TOC</h2>
+                    <h2>TOC</h2>)
                 </header>
                 {{.TableOfContents}}
                 {{ end }}

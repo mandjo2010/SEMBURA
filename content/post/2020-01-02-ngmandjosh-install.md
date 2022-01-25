@@ -3,7 +3,7 @@ layout: post
 title: "ANTOINE KABURAHE"
 subtitle: "Écrivain-journaliste"
 description: "Antoine Kaburahe est né en 1966 à Gitega au Burundi. Il obtient à l’université du Burundi une licence en Langue et Littérature françaises, avant de se lancer dans le journalisme, notamment à la radio nationale burundaise. Il fonde ensuite le journal indépendant, Panafrica, puis le groupe de presse Iwacu en juin 2008. "
-date: 2020-01-02 12:00:00
+date: 2020-01-02T02:36:51+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-10906153.jpeg"
 published: true

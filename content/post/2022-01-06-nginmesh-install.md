@@ -3,7 +3,7 @@ layout: post
 title: "BONEY-PIE MUSEMAKWELI "
 subtitle: "Enseignant"
 description: "Boney-Pie Musemakweli est né en 1963 à Rubavu dans la province de l’Ouest au Rwanda. Titulaire d’un master en Didactique du français, langue étrangère (FLE) de l’université de Montpellier 3 et d’une maîtrise en langue et littérature françaises de l’université Catholique de Louvain, il est enseignant à l’université du Rwanda, au Collège de l’Éducation, et vacataire à l’Institut français du Rwanda."
-date: 2020-01-02 12:00:00
+date: 2022-01-06T19:00:00+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-2600207.jpeg"
 published: true

@@ -5,7 +5,7 @@ subtitle: "Présentation des premières parutions littéraires de la «Collectio
 description: "La première livraison littéraire de la «Collection Sembura» a été officiellement présentée au siège de l’Académie du Royaume du Maroc à Rabat, lors d’une rencontre solennelle à laquelle ont pris part les artisans de ce projet éditorial novateur.«Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives» et «Je fête donc je suis» sont les prémices littéraires de …"
 showonlyimage: false
 excerpt: "L’Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées."
-date: 2021-11-19 17:47:00
+date: 2021-11-19T15:00:00+08:00
 author: "Le Matin du Sahara et du Maghreb"
 image: "https://boremandjo.imgix.net/MAROC.PNG"
 published: true 

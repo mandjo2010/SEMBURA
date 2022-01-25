@@ -4,7 +4,7 @@ subtitle: "Espace dédié aux jeunes chercheur.se.s en littérature et sciences 
 description: "La thèse « aura été comme un premier amour : il vous sera difficile de l’oublier » ! Umberto Eco dans Comment écrire sa thèse, Flammarion, 2016. Cet espace est dédié aux articles et aux échanges entre doctorant.e.s d’Afrique et d’ailleurs qui entreprennent des recherches sur les littératures africaines. 
 "
 excerpt: "Cette deuxième anthologie de la littérature contemporaine dans la région des Grands Lacs africains a choisi de placer la paix au centre des enjeux esthétiques et sociétaux"
-date: 2021-01-07 
+date:  2021-01-07T03:05:18+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-6210499.jpeg"
 published: true

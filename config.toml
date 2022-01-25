@@ -10,6 +10,11 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
+
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+
+
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
@@ -32,6 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
   description = "Promouvoir la littérature et l’enseignement littéraire。"
   keyword = "Afrique, Sembura, Rabiaa, Lac, Collection,  Blog, Étudiant, Web, Grands Lacs africains, Redaction, Écrivain, Auteur, Littérature, Service"
   slogan = "PUBLICATION ET PROMOTION DE LA LITTERATURE AFRICAINE"
+  
   image_404 = "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
   title_404 = " :("
   omit_categories = false

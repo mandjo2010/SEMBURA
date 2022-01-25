@@ -3,7 +3,7 @@ layout: post
 title: "EMMANUEL AHIMANA"
 subtitle: "Enseignant"
 description: "Emmanuel Ahimana est né le 9 juin 1964 dans le district de Gicumbi, province du nord du Rwanda. Il enseigne à l’université du Rwanda, au Collège de l’Éducation, où il est chef du département des Sciences humaines, langues et éducation et responsable de la Section de français.  "
-date: 2020-01-02 12:00:00
+date: 2020-01-02T02:58:07+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/istockphoto-1209026953-612x612.jpg"
 published: true
