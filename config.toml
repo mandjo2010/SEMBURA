@@ -112,8 +112,8 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "https://corymbo.ch/"
 
   [[params.friend_link]]
-  title = ""
-  href =  "https://lacroiseedeschemins.ma/produit/pour-une-culture-de-paix-dans-la-region-des-grands-lacs-africainsanthologie-2plateforme-des-ecrivains-des-grands-lacs-africains/"
+  title = "L'Académie du Royaume du Maroc"
+  href =  "https://alacademia.org.ma/"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"

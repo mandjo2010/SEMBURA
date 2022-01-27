@@ -41,5 +41,5 @@ Dans une déclaration à la MAP, l'éditeur Abdelkader Retnani a indiqué que la
 Le livre fait partie de la collection "Sembura", lancée par les Éditions "La Croisée des Chemins" en janvier 2021. Cette collection s'inscrit dans la continuité des productions littéraires des universitaires de la région des Grands Lacs et d'intellectuels africains impliqués dans ce projet éducatif et créatif.
 
 
-{{< youtube OQYImEDrBmE >}}
+
 

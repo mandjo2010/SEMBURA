@@ -22,3 +22,5 @@ Il a publié la *Littérature africaine d’expression française : Le roman* (c
 
 Son domaine de recherche est l’enseignement-apprentissage des langues et des littératures selon l’approche communicative et actionnelle en contexte alloglotte.
 
+
+![Rabiaa](https://boremandjo.imgix.net/Bonney-Pie%20Musemakweli.PNG)

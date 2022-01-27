@@ -19,3 +19,5 @@ categories: [ Auteurs ]
 
 Lauréat du prix Michel Kayoya (édition 2013) pour sa nouvelle *Une mère en détresse*, il est l’auteur des nouvelles *Rengaine ton sabre* et *Une larme dans la cendre* (Anthologie 3). 
 
+
+![Rabiaa](https://boremandjo.imgix.net/Pacifique%20Docile.PNG)

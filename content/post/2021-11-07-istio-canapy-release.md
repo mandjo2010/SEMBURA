@@ -1,6 +1,6 @@
 ---
 title: "DOCTORANT.E.S ET JEUNES CHERCHEUR.SE.S VENEZ ECHANGER ET REFLECHIR ENSEMBLE !"
-subtitle: "Espace dédié aux jeunes chercheur.se.s en littérature et sciences humaines"
+subtitle: "Espace dédié aux jeunes chercheur.se.s en littérature, art et sciences humaines"
 description: "La thèse « aura été comme un premier amour : il vous sera difficile de l’oublier » ! Umberto Eco dans Comment écrire sa thèse, Flammarion, 2016. Cet espace est dédié aux articles et aux échanges entre doctorant.e.s d’Afrique et d’ailleurs qui entreprennent des recherches sur les littératures africaines. 
 "
 excerpt: "Cette deuxième anthologie de la littérature contemporaine dans la région des Grands Lacs africains a choisi de placer la paix au centre des enjeux esthétiques et sociétaux"

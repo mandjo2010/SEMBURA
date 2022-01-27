@@ -92,5 +92,5 @@ Ces réflexions autour des institutions africaines anciennes, actuelles et à ve
 >>> (1). Allocution de Rabiaa Marhouch prononcée le 17 novembre 2021 à l’Académie du Royaume du Maroc.
 
 
-
+**Interview de l’écrivain Eugène Ebodé, codirecteur et contributeur de l’ouvrage collectif Qu’est-ce que c’est l’Afrique ? sur la chaîne marocaine Medi 1 TV** :
 

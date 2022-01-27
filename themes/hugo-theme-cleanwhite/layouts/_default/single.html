@@ -125,7 +125,7 @@
                 sidebar-container">
 
                 <!-- Featured Tags -->
-                {{ if .Site.Params.featured_tags }}
+                <!-- {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
                     <h5><a href="/tags/">MOTS CLES</a></h5>
@@ -140,13 +140,13 @@
                         {{ end }}
                     </div>
                 </section>
-                {{ end }}
+                {{ end }} -->
 
                 <!-- Friends Blog -->
                 {{ if .Site.Params.friends }}
                 <section>
                     <hr>
-                    <h5>AUTEURS ET AMIS</h5>
+                    <h5>AMIS:</h5>
                     <ul class="list-inline">
                         {{ range .Site.Params.friend_link }}
                         <li><a target="_blank" href="{{.href}}">{{.title}}</a></li>
