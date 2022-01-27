@@ -29,6 +29,9 @@ categories: [ Agenda ]
 
 Après la publication du livre collectif *Qu’est-ce que l’Afrique ? Réflexions sur le continent africain et perspectives* (Collection Sembura, La Croisée des chemins, Casablanca, 2021), préfacé par le professeur Abdeljalil Lahjomri, secrétaire perpétuel de l’Académie du Royaume du Maroc, cet appel à contributions vise à poursuivre, en 2022, la moisson des idées pour une renaissance panafricaine. Le thème retenu est le suivant : « Les institutions en Afrique : passé, présent et avenir ».
 
+ [Qu’est-ce que l’Afrique ?](http://lacroiseedeschemins.ma/produit/quest-ce-que-lafriquereflexions-sur-le-continent-africain-et-perspectives/)<BR>
+![](https://boremandjo.imgix.net/1064782751296509199_n.jpg)
+
 Changer la perception de l’Afrique sur elle-même, tel est l’enjeu de la plateforme « Sembura », collection qui publiera cet ouvrage au Maroc. L’ambition poursuivie porte sur la libre conversation sur l’Afrique formulée par ses intellectuels, ses habitants, sa diaspora et des citoyens du monde. En inaugurant cet espace conversationnel par une interrogation liminaire « *Qu’est-ce que l’Afrique ?*», nous voulions reposer les bases d’un débat africain interpellant ceux et celles qui « ont l’Afrique au cœur et le cœur en Afrique », selon la trouvaille sans équivoque de Mme Rabiaa Marhouch (1).
 
 
@@ -92,5 +95,5 @@ Ces réflexions autour des institutions africaines anciennes, actuelles et à ve
 >>> (1). Allocution de Rabiaa Marhouch prononcée le 17 novembre 2021 à l’Académie du Royaume du Maroc.
 
 
-**Interview de l’écrivain Eugène Ebodé, codirecteur et contributeur de l’ouvrage collectif Qu’est-ce que c’est l’Afrique ? sur la chaîne marocaine Medi 1 TV** :
+
 
