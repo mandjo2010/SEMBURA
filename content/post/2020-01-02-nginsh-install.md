@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post 
 title: "EMMANUEL AHIMANA"
 subtitle: "Enseignant"
@@ -23,4 +23,4 @@ Il est docteur en Études françaises, francophones et comparées, diplôme obte
 Emmanuel Ahimana anime également des ateliers d’écriture à Kigali. 
 Il est l’auteur de Courage, un texte publié dans l’Anthologie 2. 
 
-![Emmanuel](https://boremandjo.imgix.net/emmanuel%20ahimana2.PNG)
+![Emmanuel](https://boremandjo.imgix.net/emmanuel%20ahimana2.PNG) -->

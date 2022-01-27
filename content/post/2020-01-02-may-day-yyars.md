@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "LANCEMENT DE SEMBURA"
-subtitle: "Reportage dans Objectif Gard sur le lancement de Sembura au Maroc, par Coralie Mollaret"
+subtitle: "Reportage dans Objectif Gard sur le lancement de Sembura au Maroc par Coralie Mollaret"
 description: "Une fois n’est pas coutume, Objectif Gard a traversé la Méditerranée direction le Maroc. Votre journal a suivi deux écrivains résidant dans le Gard : Eugène Ébodé et sa femme, Rabiaa Marouche, directrice de la collection « Semboura ». Un voyage qui a permis également de découvrir la Maison de la région Occitanie à Casablanca, la seule du continent africain. Retour en images sur l'immersion d'Objectif Gard au Maroc "
 date: 2020-01-02T23:19:00+08:00
 author: "Écrit par Objectif Gard"
@@ -15,11 +15,11 @@ URL: "/2020/01/02/may-day-yyars/"
 categories: [Revue de presse]
 ---
 
-## Lancement de Sembura au Marocrature
+## Lancement de Sembura au Maroc
 
 Juste avant la fermeture des frontières entre la France et le Maroc, en raison de la reprise de l'épidémie en Europe, Objectif Gard a suivi deux écrivains gardois au Maroc. Eugène Ébodé et sa femme, Rabiaa Marouche, directrice de la collection « Semboura », ont présenté à l'Académie du royaume de Rabat le livre « Qu'est-ce que l'Afrique ? » (édition La croisée des chemins). Une œuvre collective de 22 auteurs dans laquelle le Gardois rédige une lettre à Victor Hugo en réaction à son ''Discours sur l’Afrique'' de 1879. L’auteur des Misérables y décrit alors une Afrique qui « n’a pas d’histoire », une sorte de « légende vaste et obscure l’enveloppe (…) », et pour laquelle l’Europe se doit d’en faire « un nouveau monde ». 
 
-## Retour en images sur l'immersion d'Objectif Gard au Maroc
+##### Retour en images sur l'immersion d'Objectif Gard au Maroc
 
 {{< youtube EK8ezokU22Q >}}
 
