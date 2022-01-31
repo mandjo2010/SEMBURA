@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "Sembura | Sembura Blog"
   description = "Promouvoir la littérature et l’enseignement littéraire。"
   keyword = "Afrique, Sembura, Rabiaa, Lac, Collection,  Blog, Étudiant, Web, Grands Lacs africains, Redaction, Écrivain, Auteur, Littérature, Service"
-  slogan = "PUBLICATION ET PROMOTION DE LA LITTERATURE AFRICAINE"
+  slogan = "PUBLICATION ET PROMOTION DE LA LITTÉRATURE AFRICAINE ET AFRO-DESCENDANTE"
   
   image_404 = "https://boremandjo.imgix.net/photo-1605007493699-af65834f8a00.jpg"
   title_404 = " :("
