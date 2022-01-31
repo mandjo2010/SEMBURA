@@ -4,11 +4,15 @@ languageCode = 'fr-FR'
 title = 'Collection Sembura'
 theme = "hugo-theme-cleanwhite"
 #Enable comments by entering your Disqus shortname
-disqusShortname = "disqus_WejH200vSh"
+#disqusShortname = "blog-sembura"
 googleAnalytics = "UA-298613311"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+
+
+
+
 
 
 [permalinks]

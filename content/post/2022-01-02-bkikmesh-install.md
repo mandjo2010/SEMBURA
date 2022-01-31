@@ -94,6 +94,7 @@ Ces réflexions autour des institutions africaines anciennes, actuelles et à ve
 
 >>> (1). Allocution de Rabiaa Marhouch prononcée le 17 novembre 2021 à l’Académie du Royaume du Maroc.
 
+### " Qu'est ce que l'Afrique ?" , un collectif d'écrivain s'attaque à la définir
+<br />
 
-
-
+{{< youtube YJbc4yb9m14 >}}

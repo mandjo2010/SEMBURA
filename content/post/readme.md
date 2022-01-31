@@ -18,4 +18,5 @@ URL: "/2022/01/27/istio-traffic-shifting/"
 
 Concilie Bigirimana a publié Élixir dans l’Anthologie 2 et une contribution intitulée « Encore un pas… » dans le collectif *Qu’est-ce que l’Afrique ? Réflexion sur le continent africain et perspectives* (Sembura, 2021). 
 
-![Concile](https://boremandjo.imgix.net/Concilie%20Birigirimana.PNG)
+![Concile](https://boremandjo.imgix.net/Concilie-Bigirimana.jpg)
+
