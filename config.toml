@@ -1,5 +1,5 @@
 # Paramètres du site
-baseURL = 'https://www.sembura.com/'
+baseURL = 'sembura.com'
 languageCode = 'fr-FR'
 title = 'Collection Sembura'
 theme = "hugo-theme-cleanwhite"
