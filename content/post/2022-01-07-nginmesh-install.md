@@ -3,7 +3,7 @@ layout: post
 title: "FAUSTIN MULIRI MIRUHO"
 subtitle: "Journaliste, dramaturge, chroniqueur radio"
 description: "Faustin Muliri Miruho est né le 6 août 1962 à Kabanda-Mumosho, territoire de Kabare, en République démocratique du Congo. 
-Diplômé en Humanités littéraires, il est également lauréat de l’Institut national des arts (Kinshasa). "
+Diplômé en Humanités littéraires, il est également diplômé de l’Institut national des arts en animation (Kinshasa). "
 date: 2022-01-07T12:00:00+08:00
 author: "Rabiaa"
 image: "https://boremandjo.imgix.net/pexels-photo-10906153.jpeg"
